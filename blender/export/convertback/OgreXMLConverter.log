@@ -1,0 +1,25 @@
+21:00:59: Creating resource group General
+21:00:59: Creating resource group Internal
+21:00:59: Creating resource group Autodetect
+21:00:59: Registering ResourceManager for type Mesh
+21:00:59: Registering ResourceManager for type Material
+21:00:59: Registering ResourceManager for type Skeleton
+21:00:59: XMLSkeletonSerializer writing  skeleton data to C:\Editing\Clonk\OpenClonkClassic\blender\export\convertback\Hut.skeleton.xml...
+21:00:59: Populating DOM...
+21:00:59: Exporting bones..
+21:00:59: There are 2 bones.
+21:00:59:    Exporting Bone number 0
+21:00:59:    Exporting Bone number 1
+21:00:59: Bones exported.
+21:00:59: Exporting animations, count=3
+21:00:59: Exporting animation: CloseDoor
+21:00:59: Animation exported.
+21:00:59: Exporting animation: DoorOpenCustom
+21:00:59: Animation exported.
+21:00:59: Exporting animation: OpenDoor
+21:00:59: Animation exported.
+21:00:59: DOM populated, writing XML file..
+21:00:59: XMLSkeletonSerializer export successful.
+21:00:59: Unregistering ResourceManager for type Skeleton
+21:00:59: Unregistering ResourceManager for type Material
+21:00:59: Unregistering ResourceManager for type Mesh

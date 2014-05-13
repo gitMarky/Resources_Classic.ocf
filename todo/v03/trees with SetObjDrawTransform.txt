@@ -1,0 +1,1 @@
+Trees have a bug where they change direction after they were chopped. Use SetObjDrawTrasform instead and enable rotated trees as in GZE
