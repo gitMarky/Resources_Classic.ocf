@@ -1,0 +1,5 @@
+Name=Metal
+Description=Needed for a variety of structures. Can also be used to create more resistant walls and bridges.
+
+TxtNobridgeallowedhere=No bridge allowed here
+TxtBuildmetalbridge=Build metal bridge

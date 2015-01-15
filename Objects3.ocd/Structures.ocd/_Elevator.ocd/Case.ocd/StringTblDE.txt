@@ -1,0 +1,14 @@
+Name=Fahrstuhlkorb
+Description=Der Fahrstuhl fährt automatisch zu wartenden Clonks, kann aber auch in den Dauerbetrieb geschaltet werden.
+
+TxtDown=Abwärts
+TxtUp=Aufwärts
+TxtStop=Anhalten
+TxtPutGet=Ablegen/Nehmen
+TxtDrillshaft=Schachtbohrung
+TxtPermanentmode=Dauerbetrieb
+TxtPermanentmodeon=Dauerbetrieb eingeschaltet
+TxtPermanentmodeoff=Dauerbetrieb ausgeschaltet
+TxtPermanentModeTurnOn=Dauerbetrieb ein
+TxtPermanentModeTurnOff=Dauerbetrieb aus
+TxtPermanentModeDesc=Im Dauerbetrieb fährt der Fahrstuhl kontinuierlich auf und ab und kommt nicht zu wartenden Clonks.

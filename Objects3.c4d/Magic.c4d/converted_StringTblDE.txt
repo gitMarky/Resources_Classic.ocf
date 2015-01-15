@@ -1,0 +1,2 @@
+Description=Zaubersprüche, die in einem Zauberturm oder von dafür befähigten Clonks eingesetzt werden können.
+

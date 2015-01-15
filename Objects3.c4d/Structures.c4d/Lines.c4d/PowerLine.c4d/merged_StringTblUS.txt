@@ -1,0 +1,4 @@
+Name=Power line
+Description=Transfers energy.
+
+TxtLinebroke=Line broke

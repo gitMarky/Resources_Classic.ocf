@@ -1,0 +1,6 @@
+Name=Wipf rescue
+Description=All wipfs have to be caught and sold. If the goal object is placed multiple times, the respective number of wipfs may die before the goal is lost.
+
+MsgFailed=Too many wipfs have died.
+MsgSuccess=No more wipfs to rescue.
+MsgTodo=Still %d wipfs to rescue. %d wipfs have already died (%d allowed).

@@ -1,0 +1,4 @@
+Name=Angeschraubtes Kampfgeschütz
+TxtNoammo=Keine Munition
+TxtShoots=%s schießen
+TxtNotenoughgunpowder1r=Nicht genug Schießpulver!|Benötigt: %d Schießpulver

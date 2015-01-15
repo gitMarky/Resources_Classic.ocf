@@ -1,0 +1,12 @@
+[DefCore]
+id=ACT4
+Version=6,0
+Category=C4D_Vehicle
+Width=52
+Height=52
+Offset=-26,-26
+Picture=0,0,52,52
+Vertices=1
+Rotate=1
+AttractLightning=1
+NoStabilize=1

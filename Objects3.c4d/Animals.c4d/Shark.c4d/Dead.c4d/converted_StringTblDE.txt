@@ -1,0 +1,3 @@
+Name=Toter Hai
+Description=Harmlos, wenn erlegt.
+

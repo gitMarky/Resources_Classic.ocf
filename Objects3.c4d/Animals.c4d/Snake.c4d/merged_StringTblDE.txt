@@ -1,0 +1,7 @@
+Name=Schlange
+Description=Giftiges Reptil.
+
+TxtMovement=Bewegen
+TxtAttack=Beißen
+TxtLeave=Zurückverwandeln
+TxtEmbowel=Zerlegen

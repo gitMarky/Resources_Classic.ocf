@@ -1,0 +1,16 @@
+[DefCore]
+id=ADM3
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=6
+Height=6
+Offset=-3,-3
+Value=30
+Mass=30
+Components=METL=2;CRYS=1;SPHR=1
+Picture=6,0,64,64
+Vertices=2
+VertexX=-2,2
+VertexY=2,-2
+VertexFriction=20,20
+Rotate=1

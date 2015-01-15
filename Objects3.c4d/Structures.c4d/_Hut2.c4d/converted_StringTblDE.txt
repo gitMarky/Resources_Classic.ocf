@@ -1,0 +1,3 @@
+Name=Holzhütte
+Description=Eine etwas stabilere Heimatbasis mit Fundament.
+

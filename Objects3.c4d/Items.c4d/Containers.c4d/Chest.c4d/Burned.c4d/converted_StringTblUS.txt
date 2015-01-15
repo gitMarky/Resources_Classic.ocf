@@ -1,0 +1,3 @@
+Name=Burned chest
+Description=The chest is destroyed.
+

@@ -1,0 +1,4 @@
+Name=Bird egg
+Description=Home of the baby birds.
+
+TxtEat=Eat

@@ -1,0 +1,11 @@
+local ActMap = {
+Initialize = {
+	Prototype = Action,
+	Name = "Initialize",
+	Length = 1,
+	Delay = 1,
+	NextAction = "Idle",
+	EndCall = "Initialized",
+},
+
+};

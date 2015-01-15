@@ -1,0 +1,12 @@
+local ActMap = {
+Open = {
+	Prototype = Action,
+	Name = "Open",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 0,
+	FacetBase = 1,
+	NextAction = "Hold",
+},
+
+};

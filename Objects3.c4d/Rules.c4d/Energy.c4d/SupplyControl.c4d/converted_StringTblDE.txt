@@ -1,0 +1,3 @@
+Name=Energieversorgung
+Description=Dieses Objekt stellt Befehle zur Energieversorgung zur Verfügung.
+

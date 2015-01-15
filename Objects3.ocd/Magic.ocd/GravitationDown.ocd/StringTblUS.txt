@@ -1,0 +1,5 @@
+Name=Gravitation Down
+Description=Reduce gravitation by 20 percent.
+
+MsgGravityMinimum=Gravitation already|at minimum!
+MsgGravityDec=Gravitation decreased.|Gravitation now: %d%.

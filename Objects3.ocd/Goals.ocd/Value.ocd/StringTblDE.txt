@@ -1,0 +1,5 @@
+Name=Siedlungspunkte
+Description=Jeder Spieler muss die entsprechende Anzahl von Siedlungspunkten erwirtschaften.
+
+MsgGoalFulfilled=%d Siedlungspunkte erreicht!
+MsgGoalUnfulfilled=%d Siedlungspunkte von %d erreicht.

@@ -1,0 +1,3 @@
+Name=Chemical plant
+Description=Explosives production facility.
+

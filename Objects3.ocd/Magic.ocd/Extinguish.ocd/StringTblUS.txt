@@ -1,0 +1,4 @@
+Name=Extinguish
+Description=Use this spell when your magic clonk is caught on fire.
+
+NoExtinguish=Nothing to extinguish!

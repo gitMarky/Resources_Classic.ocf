@@ -1,0 +1,4 @@
+Name=Wurmloch
+Description=Öffnet ein magisches Wurmloch dessen Ende sich an einer zufälligen Position in der Landschaft befindet. Alle Objekte in der Nähe werden rücksichtslos eingesogen.
+
+TxtNoPlace=Kein Warpziel gefunden!

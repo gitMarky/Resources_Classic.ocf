@@ -1,0 +1,3 @@
+Name=Wind wing
+Description=Creates energy.
+

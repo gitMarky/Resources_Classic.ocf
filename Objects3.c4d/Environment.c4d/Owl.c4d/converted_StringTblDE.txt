@@ -1,0 +1,3 @@
+Name=Eule
+Description=Nächtliche Geräuschkulisse.
+

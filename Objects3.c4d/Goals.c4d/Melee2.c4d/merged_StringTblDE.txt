@@ -1,0 +1,4 @@
+Name=Melee
+Description=Alle Spieler oder Teams kämpfen gegeneinander bis nur noch eine Partei am Leben ist.
+
+MsgDeprecated=WARNUNG: Benutze veraltetes Spielziel \"MEL2\". Bitte auf Spielziel \"MELE\" ändern und ggf. Teams.txt anpassen!

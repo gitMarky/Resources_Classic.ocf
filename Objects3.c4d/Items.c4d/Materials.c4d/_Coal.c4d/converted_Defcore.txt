@@ -1,0 +1,16 @@
+[DefCore]
+id=COAL
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+Width=10
+Height=10
+Offset=-5,-5
+Value=2
+Mass=9
+Components=IASH=2;ISPH=1
+Picture=10,0,35,35
+Vertices=3
+VertexX=-3,4,-3
+VertexY=-4,3,5
+VertexFriction=30,30,30
+Rotate=1

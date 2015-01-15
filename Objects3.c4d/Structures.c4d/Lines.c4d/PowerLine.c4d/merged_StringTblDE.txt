@@ -1,0 +1,4 @@
+Name=Energieleitung
+Description=Zur Energieversorgung.
+
+TxtLinebroke=Leitung gerissen

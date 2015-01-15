@@ -1,0 +1,9 @@
+[DefCore]
+id=MQKE
+Version=6,0
+Category=C4D_Magic
+Width=1
+Height=1
+Value=12
+Components=IROC=3
+Picture=0,0,40,40

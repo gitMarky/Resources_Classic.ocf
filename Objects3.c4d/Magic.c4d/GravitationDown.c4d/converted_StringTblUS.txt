@@ -1,0 +1,3 @@
+Name=Gravitation Down
+Description=Reduce gravitation by 20 percent.
+

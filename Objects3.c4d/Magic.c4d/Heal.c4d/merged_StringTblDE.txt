@@ -1,0 +1,4 @@
+Name=Heilung
+Description=Heilt den Zauberer.
+
+SpellInfo=Der Clonk wird geheilt.

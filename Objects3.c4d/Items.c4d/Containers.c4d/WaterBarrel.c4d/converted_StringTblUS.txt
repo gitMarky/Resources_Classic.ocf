@@ -1,0 +1,3 @@
+Name=Water barrel
+Description=Contains water.
+

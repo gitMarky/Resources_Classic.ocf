@@ -1,0 +1,3 @@
+Name=Gravitation (Rauf)
+Description=Erhöht die Gravitation um 20%.
+

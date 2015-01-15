@@ -1,0 +1,13 @@
+
+protected func Activate(caller) {
+  MessageWindow(GetDesc(), caller);
+  return(1);
+}
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";

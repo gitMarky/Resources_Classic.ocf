@@ -1,0 +1,3 @@
+Name=Ballon
+Description=Das erste den Clonks bekannte Fluggerät. Leider auf den Wind angewiesen.
+

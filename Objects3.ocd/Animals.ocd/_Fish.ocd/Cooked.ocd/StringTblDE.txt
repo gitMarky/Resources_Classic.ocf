@@ -1,0 +1,4 @@
+Name=Gekochter Fisch
+Description=Zubereitete Nahrungsmittel liefern mehr Energie.
+
+CtrlEatDesc=Essen

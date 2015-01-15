@@ -1,0 +1,3 @@
+Name=Wachturm
+TxtLeftgate=Linkes Tor
+TxtRightgate=Rechtes Tor

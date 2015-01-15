@@ -1,0 +1,4 @@
+Name=Angeschraubtes Flüssigkeitsgeschütz
+TxtNoammo=Keine Munition
+TxtShoots=%s schießen
+TxtShootsAll=Alles schießen

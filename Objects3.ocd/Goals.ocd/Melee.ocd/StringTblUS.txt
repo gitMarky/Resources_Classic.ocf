@@ -1,0 +1,6 @@
+Name=Melee
+Description=All players or teams fight each other until only one survivor remains.
+
+MsgGoalFulfilled=All opponents eliminated.
+MsgGoalUnfulfilled=Still %d opponents in the game.
+MsgTooFewPlayers=Too few players for a melee.

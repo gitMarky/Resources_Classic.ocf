@@ -1,0 +1,3 @@
+Name=Gravitation (Runter)
+Description=Verringert die Gravitation um 20%.
+

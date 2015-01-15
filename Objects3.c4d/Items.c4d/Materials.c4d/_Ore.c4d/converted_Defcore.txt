@@ -1,0 +1,16 @@
+[DefCore]
+id=ORE1
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+Width=10
+Height=10
+Offset=-5,-5
+Value=3
+Mass=12
+Components=IGOL=1;IROC=2
+Picture=10,0,35,35
+Vertices=3
+VertexX=-4,0,4
+VertexY=4,-4,4
+VertexFriction=30,30,30
+Rotate=1

@@ -1,0 +1,3 @@
+Name=Random Magic
+Description=Creates a random spell.
+

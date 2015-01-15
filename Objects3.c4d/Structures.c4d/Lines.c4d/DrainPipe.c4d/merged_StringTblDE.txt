@@ -1,0 +1,4 @@
+Name=Abflussrohr
+Description=Abfluß für Pumpen.
+
+TxtLinebroke=Leitung gerissen

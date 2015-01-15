@@ -1,0 +1,5 @@
+Name=Gravitation (Rauf)
+Description=Erhöht die Gravitation um 20%.
+
+MsgAlreadyMaxed=Gravitation steht|bereits auf Maximum!
+MsgRaised=Gravitation erhöht.|Sie beträgt jetzt %d%.

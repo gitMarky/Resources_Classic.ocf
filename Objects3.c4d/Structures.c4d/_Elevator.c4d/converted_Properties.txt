@@ -1,0 +1,4 @@
+local Name = "$Name$";
+local Description = "$Description$";
+local BlastIncinerate = 50;
+local BurnTo = ELVB;

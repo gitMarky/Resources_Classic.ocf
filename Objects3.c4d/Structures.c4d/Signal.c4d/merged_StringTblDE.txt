@@ -1,0 +1,15 @@
+Name=Signal
+Description=Haltepunkt für einen Zug. Bedienung durch Anfassen: Runter (durchfahren), Rauf (anhalten und weiterfahren), Links/Rechts (anhalten und umkehren), Werfen (ein-/ausladen) und Doppelklick auf Graben (Signal abbauen).
+
+Gegenstände und Fahrzeuge können automatisch eingeladen werden, indem sie an der Stelle abgelegt werden, an der der angekuppelte Waggon zum Stehen kommt.
+
+TxtThrough=Durchfahren
+TxtHaltandgo=Anhalten und in die gleiche Richtung weiterfahren
+TxtHaltandturnleft=Anhalten und nach links weiterfahren
+TxtHaltandturnright=Anhalten und nach rechts weiterfahren
+TxtLoadunload=Material ein/ausladen
+TxtDeconstruct=Signal abbauen
+TxtThrough=Durchfahren
+TxtHaltandgo=Anhalten/Weiter
+TxtLoadunload=Einladen/Ausladen
+TxtDeconstruct=Abbauen

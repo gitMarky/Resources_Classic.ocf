@@ -1,0 +1,3 @@
+Name=Segelboot
+Description=Zum Überqueren kleinerer Gewässer.
+

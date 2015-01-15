@@ -1,0 +1,7 @@
+Name=Crossbow
+Description=The only effective surface-to-air defense. Can be loaded with various types of arrows.
+
+TxtAimup=Aim: up
+TxtAimdown=Aim: down
+TxtFire=Fire
+TxtResetview=Reset view

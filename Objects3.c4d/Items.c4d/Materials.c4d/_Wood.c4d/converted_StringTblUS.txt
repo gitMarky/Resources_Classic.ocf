@@ -1,0 +1,3 @@
+Name=Wood
+Description=Needed for construction or as firing material.
+

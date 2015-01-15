@@ -1,0 +1,6 @@
+Name=Goldmine
+Description=All gold needs to be mined and sold.
+
+MsgGoalFulfilled=All gold has been mined.
+MsgGoalUnfulfilled=You still have to mine %d units of solid gold and collect %d gold chunks.
+MsgGoalUnfulfilled2=You still have to mine an unknown amount of solid gold and collect %d gold chunks.

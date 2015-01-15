@@ -1,0 +1,14 @@
+[DefCore]
+id=SWD1
+Version=6,0
+Category=C4D_Vehicle|C4D_SelectVegetation
+Width=16
+Height=20
+Offset=-8,-10
+Value=1
+Mass=1
+Components=SWD1=1
+Picture=0,0,16,20
+Vertices=1
+VertexY=9
+VertexFriction=100

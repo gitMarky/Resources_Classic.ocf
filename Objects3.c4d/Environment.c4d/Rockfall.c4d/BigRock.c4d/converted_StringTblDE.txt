@@ -1,0 +1,3 @@
+Name=Groﬂer Stein
+Description=Autsch hoch zwei.
+

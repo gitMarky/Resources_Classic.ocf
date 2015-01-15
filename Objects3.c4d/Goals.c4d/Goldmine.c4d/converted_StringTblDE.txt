@@ -1,0 +1,3 @@
+Name=Goldmine
+Description=Es müssen alles Gold im Erdreich abgebaut und alle Goldklumpen verkauft werden.
+

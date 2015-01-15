@@ -1,0 +1,8 @@
+[DefCore]
+id=FXP1
+Version=6,0
+Category=C4D_Vehicle
+Width=100
+Height=1
+Mass=1
+Picture=0,0,64,64

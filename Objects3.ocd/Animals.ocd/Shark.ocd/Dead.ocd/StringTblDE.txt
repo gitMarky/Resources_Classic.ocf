@@ -1,0 +1,4 @@
+Name=Toter Hai
+Description=Harmlos, wenn erlegt.
+
+TxtEmbowel=Zerlegen

@@ -1,0 +1,6 @@
+Name=Shark
+Description=Lord of the sea.
+
+TxtMovement=Move
+TxtAttack=Bite
+TxtLeave=Retransform

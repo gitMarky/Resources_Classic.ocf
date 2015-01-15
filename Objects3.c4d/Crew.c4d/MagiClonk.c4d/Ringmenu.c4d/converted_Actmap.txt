@@ -1,0 +1,39 @@
+local ActMap = {
+Open = {
+	Prototype = Action,
+	Name = "Open",
+	Procedure = DFA_ATTACH,
+	Directions = 2,
+	Length = 1,
+	Delay = 0,
+	FacetBase = 1,
+	NextAction = "Hold",
+	StartCall = "Opened",
+},
+
+Turn = {
+	Prototype = Action,
+	Name = "Turn",
+	Procedure = DFA_ATTACH,
+	Directions = 2,
+	Length = 10,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Open",
+	EndCall = "TurningDone",
+	PhaseCall = "Turning",
+},
+
+Grow = {
+	Prototype = Action,
+	Name = "Grow",
+	Procedure = DFA_ATTACH,
+	Length = 10,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Open",
+	StartCall = "Growing",
+	PhaseCall = "Growing",
+},
+
+};

@@ -1,0 +1,4 @@
+Name=Pfeilpaket
+Description=Munition für Armbrust und Bogen.
+
+TxtUnpack=Zerlegen

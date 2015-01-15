@@ -1,0 +1,3 @@
+Name=Baumaterial
+Description=Zum Bauen wird Baumaterial benötigt.
+

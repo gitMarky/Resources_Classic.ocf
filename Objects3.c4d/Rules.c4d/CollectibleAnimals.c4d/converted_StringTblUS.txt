@@ -1,0 +1,3 @@
+Name=Collectible animals
+Description=Wipfs, fishes and snakes can be collected by Clonks and in lorries.
+

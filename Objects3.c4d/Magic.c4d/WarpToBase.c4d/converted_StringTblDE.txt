@@ -1,0 +1,3 @@
+Name=Wurmloch zur Basis
+Description=Erzeugt ein Wurmloch, das direkt in die eigene Basis führt.
+

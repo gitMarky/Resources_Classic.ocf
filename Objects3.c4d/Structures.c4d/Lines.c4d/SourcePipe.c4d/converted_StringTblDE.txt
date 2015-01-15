@@ -1,0 +1,3 @@
+Name=Zuflussrohr
+Description=Zufluß für Pumpen.
+

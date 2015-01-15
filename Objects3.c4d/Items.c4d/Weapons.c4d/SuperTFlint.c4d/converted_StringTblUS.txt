@@ -1,0 +1,2 @@
+Description=Extended fusing time. Bigger blast.
+

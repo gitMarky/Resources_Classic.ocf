@@ -1,0 +1,14 @@
+[DefCore]
+id=SKUL
+Version=6,0
+Category=C4D_Object|C4D_SelectInEarth|C4D_SelectVegetation
+Width=24
+Height=14
+Offset=-12,-7
+Value=2
+Mass=5
+Components=IBON=6
+Picture=24,0,64,64
+Vertices=1
+VertexY=6
+VertexFriction=50

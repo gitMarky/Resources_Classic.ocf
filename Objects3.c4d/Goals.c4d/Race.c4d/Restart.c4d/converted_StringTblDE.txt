@@ -1,0 +1,3 @@
+Name=Neustarten
+Description=Diese Spielregel erlaubt dem Spieler nochmal von vorne zu beginnen.
+

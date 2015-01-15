@@ -1,0 +1,6 @@
+Name=Vogel
+Description=Verunsichert den Luftraum.
+
+TxtMovement=Bewegen
+TxtAttack=Beißen
+TxtLeave=Zurückverwandeln

@@ -1,0 +1,12 @@
+[DefCore]
+id=LWPF
+Version=6,0
+Category=C4D_Vehicle
+Width=24
+Height=28
+Offset=-12,-18
+Picture=120,0,24,28
+Vertices=1
+VertexX=-8
+VertexY=-6
+Rotate=1

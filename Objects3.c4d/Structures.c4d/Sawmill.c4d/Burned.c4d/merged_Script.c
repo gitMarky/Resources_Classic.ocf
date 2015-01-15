@@ -1,0 +1,12 @@
+/*-- Verbranntes Sägewerk --*/
+
+
+#include BAS7
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";
+local BlastIncinerate = 150;

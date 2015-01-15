@@ -1,0 +1,7 @@
+Name=Derrick
+Description=Pumps liquids from underground reservoirs. Grab and up, down for drill adjust.
+
+CtrlDrillDesc=Drill
+CtrlRetractDesc=Retract
+CtrlStopDesc=Stop
+

@@ -1,0 +1,3 @@
+Name=Kugel
+Description=Eine Kugel, die das Luftabwehrgeschütz schießen kann.
+

@@ -1,0 +1,13 @@
+[DefCore]
+id=FRCA
+Version=6,0
+Category=C4D_Living
+Width=480
+Height=200
+Offset=-240,-100
+SolidMask=0,200,480,200,0,0
+TopFace=0,0,480,200,0,0
+Picture=0,0,480,200
+Vertices=1
+IncompleteActivity=1
+NoBreath=1

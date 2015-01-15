@@ -1,0 +1,4 @@
+Name=Goal control
+Description=Controls the round completion checks.
+
+MsgGoalFulfilled=Goal fulfilled

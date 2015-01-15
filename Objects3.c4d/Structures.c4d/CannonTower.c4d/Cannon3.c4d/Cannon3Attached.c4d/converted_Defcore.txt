@@ -1,0 +1,11 @@
+[DefCore]
+id=CTW6
+Version=6,0
+Category=C4D_Vehicle
+Width=20
+Height=20
+Offset=-10,-10
+Picture=0,0,20,20
+Vertices=1
+Rotate=120
+NoStabilize=1

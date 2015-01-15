@@ -1,0 +1,2 @@
+Description=A small but robust humanoid being. Witty and nimble, if skillfully controlled.
+

@@ -1,0 +1,14 @@
+[DefCore]
+id=CNKT
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=8
+Height=6
+Offset=-4,-3
+Value=15
+Mass=15
+Components=WOOD=2;METL=1
+Picture=8,0,80,60
+Vertices=1
+VertexY=1
+VertexFriction=50

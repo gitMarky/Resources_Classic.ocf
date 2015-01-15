@@ -1,0 +1,4 @@
+Name=Baumsteuerung
+Description=Steuert das Verhalten der Bäume.
+
+TxtChop=Fällen

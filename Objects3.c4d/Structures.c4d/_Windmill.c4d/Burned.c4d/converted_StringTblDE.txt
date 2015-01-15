@@ -1,0 +1,3 @@
+Name=Verbranntes Windrad
+Description=Kann auf ebenem Untergrund wieder aufgebaut werden.
+

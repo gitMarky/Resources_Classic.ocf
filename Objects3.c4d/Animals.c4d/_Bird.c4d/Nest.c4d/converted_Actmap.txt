@@ -1,0 +1,35 @@
+local ActMap = {
+Be = {
+	Prototype = Action,
+	Name = "Be",
+	Procedure = DFA_FLOAT,
+	Directions = 1,
+	Length = 1,
+	Delay = 10,
+	X = 0,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 11,
+	NextAction = "Be",
+	InLiquidAction = "Decay",
+},
+
+Bird = {
+	Prototype = Action,
+	Name = "Bird",
+	Procedure = DFA_FLOAT,
+	Directions = 1,
+	Length = 1,
+	Delay = 1000,
+	X = 0,
+	Y = 11,
+	Wdt = 30,
+	Hgt = 16,
+	OffX = -4,
+	OffY = -5,
+	NextAction = "Be",
+	EndCall = "Breed",
+	InLiquidAction = "Decay",
+},
+
+};

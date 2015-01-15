@@ -1,0 +1,16 @@
+[DefCore]
+id=METO
+Version=6,0
+Category=C4D_Object
+Width=6
+Height=5
+Offset=-3,-2
+Value=10
+Mass=10
+Components=SPHR=3
+Picture=8,0,120,120
+Vertices=2
+VertexX=-7,7
+VertexY=1,1
+VertexFriction=100
+Rotate=1

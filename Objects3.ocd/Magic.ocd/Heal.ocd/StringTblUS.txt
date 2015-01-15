@@ -1,0 +1,4 @@
+Name=Heal
+Description=Heals a wounded clonk.
+
+SpellInfo=The clonk is being healed.

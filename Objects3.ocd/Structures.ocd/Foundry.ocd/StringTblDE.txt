@@ -1,0 +1,6 @@
+Name=Hochofen
+Description=Erzeugt aus Erz und Brennmaterial Metall.
+
+TxtNooreavailable=Kein Erz verfügbar.
+TxtNeedsfueltoburn=Kein Brennmaterial verfügbar.
+TxtProducemetal=Metallproduktion

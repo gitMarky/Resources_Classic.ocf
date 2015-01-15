@@ -1,0 +1,3 @@
+Name=Burned elevator case
+Description=Do not use elevator in case of fire.
+

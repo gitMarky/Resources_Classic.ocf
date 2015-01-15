@@ -1,0 +1,7 @@
+Name=Cannon
+Description=Heavy artillery. Requires one load of gunpowder per shot.
+
+TxtAimup=Aim: up
+TxtAimdown=Aim: down
+TxtFire=Fire
+TxtResetview=Reset view

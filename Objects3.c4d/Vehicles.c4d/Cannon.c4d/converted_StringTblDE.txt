@@ -1,0 +1,3 @@
+Name=Haubitze
+Description=Mächtige Langstreckenwaffe. Benötigt für einen Schuss eine Ladung Schießpulver.
+

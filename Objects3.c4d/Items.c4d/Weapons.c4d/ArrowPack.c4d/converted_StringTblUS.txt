@@ -1,0 +1,3 @@
+Name=Arrow pack
+Description=Ammunition for bow and crossbow.
+

@@ -1,0 +1,14 @@
+[DefCore]
+id=GOLD
+Version=6,0
+Category=C4D_Object|C4D_SelectInEarth
+Width=6
+Height=6
+Offset=-3,-3
+Value=5
+Mass=15
+Components=IGOL=3
+Picture=0,6,64,64
+Vertices=1
+VertexY=1
+VertexFriction=20

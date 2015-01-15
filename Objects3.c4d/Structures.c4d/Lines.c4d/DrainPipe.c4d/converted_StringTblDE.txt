@@ -1,0 +1,3 @@
+Name=Abflussrohr
+Description=Abfluß für Pumpen.
+

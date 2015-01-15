@@ -1,0 +1,16 @@
+local ActMap = {
+Appear = {
+	Prototype = Action,
+	Name = "Appear",
+	Length = 10,
+	Delay = 10,
+	X = 0,
+	Y = 0,
+	Wdt = 3,
+	Hgt = 3,
+	FacetBase = 0,
+	NextAction = "Hold",
+	PhaseCall = "Appearing",
+},
+
+};

@@ -1,0 +1,3 @@
+Name=Small castle
+Description=The Clonk's home is his castle.
+

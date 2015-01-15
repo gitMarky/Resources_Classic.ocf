@@ -1,0 +1,14 @@
+[DefCore]
+id=FSHW
+Version=6,0
+Category=C4D_Object
+Width=10
+Height=10
+Offset=-5,-5
+Mass=3
+Components=DFLM=5;FLNT=1
+Picture=0,0,10,10
+Vertices=2
+VertexX=-3,3
+VertexY=-3,3
+VertexFriction=20

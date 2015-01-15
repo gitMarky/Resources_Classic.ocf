@@ -1,0 +1,16 @@
+[DefCore]
+id=LICN
+Version=6,0
+Category=C4D_Vehicle|C4D_SelectVehicle|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=40
+Height=18
+Offset=-20,-9
+Value=40
+Mass=100
+Components=METL=3;LNKT=1
+Picture=40,0,61,64
+Vertices=5
+VertexX=-17,-19,3,3,20
+VertexY=-6,7,-4,7,2
+VertexFriction=40,40,40,40,40
+Rotate=1

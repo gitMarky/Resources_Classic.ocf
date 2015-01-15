@@ -1,0 +1,3 @@
+Name=Verbrannte Truhe
+Description=Die Kiste ist kaputt.
+

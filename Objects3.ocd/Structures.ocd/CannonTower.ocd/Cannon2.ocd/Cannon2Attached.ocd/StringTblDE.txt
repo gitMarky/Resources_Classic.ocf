@@ -1,0 +1,4 @@
+Name=Angeschraubtes Artilleriegeschütz
+TxtNoammo=Keine Munition
+TxtShootsn=%s schießen (%d)
+TxtNotenoughgunpowder=Nicht genug Schießpulver!

@@ -1,0 +1,3 @@
+Name=Waggon
+Description=Für den schnellen Transport großer Materialmengen. Steuert eine angekuppelte Zugmaschine.
+

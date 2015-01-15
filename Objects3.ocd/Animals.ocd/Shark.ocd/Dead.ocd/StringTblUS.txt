@@ -1,0 +1,4 @@
+Name=Dead shark
+Description=Shark no more.
+
+TxtEmbowel=Embowel

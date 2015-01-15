@@ -1,0 +1,33 @@
+local ActMap = {
+Ready = {
+	Prototype = Action,
+	Name = "Ready",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 7,
+	Reverse = 0,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 25,
+	NextAction = "Hold",
+},
+
+Charge = {
+	Prototype = Action,
+	Name = "Charge",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 7,
+	Reverse = 0,
+	Delay = 5,
+	X = 0,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 25,
+	NextAction = "Ready",
+	PhaseCall = "Charging",
+},
+
+};

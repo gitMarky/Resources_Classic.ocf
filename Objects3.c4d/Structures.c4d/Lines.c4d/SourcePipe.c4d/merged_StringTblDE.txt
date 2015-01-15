@@ -1,0 +1,4 @@
+Name=Zuflussrohr
+Description=Zufluß für Pumpen.
+
+TxtLinebroke=Leitung gerissen

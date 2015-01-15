@@ -1,0 +1,4 @@
+Name=Chest
+Description=A chest. You can take out items or put them in.
+
+MsgLocked=The chest is locked.

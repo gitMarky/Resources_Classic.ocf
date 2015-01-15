@@ -1,0 +1,3 @@
+Name=Pfeil
+Description=Ein leichtes und schnelles Projektil.
+

@@ -1,0 +1,16 @@
+[DefCore]
+id=METL
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+Width=8
+Height=7
+Offset=-4,-3
+Value=8
+Mass=15
+Components=ORE1=1
+Picture=8,0,64,64
+Vertices=3
+VertexX=-4,3
+VertexY=3,-3
+VertexFriction=50,50,50
+Rotate=1

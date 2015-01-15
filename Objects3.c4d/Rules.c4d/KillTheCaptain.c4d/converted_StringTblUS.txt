@@ -1,0 +1,3 @@
+Name=Kill The Captain
+Description=The highest rank clonk of each player will be the captain. If this captain is killed, the player will be eliminated.
+

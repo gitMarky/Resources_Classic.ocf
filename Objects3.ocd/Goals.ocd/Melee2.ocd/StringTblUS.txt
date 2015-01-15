@@ -1,0 +1,4 @@
+Name=Melee
+Description=All players or teams fight each other until only one survivor remains.
+
+MsgDeprecated=WARNING: Using deprecated goal \"MEL2\"; use \"MELE\" and create appropriate Teams.txt instead!

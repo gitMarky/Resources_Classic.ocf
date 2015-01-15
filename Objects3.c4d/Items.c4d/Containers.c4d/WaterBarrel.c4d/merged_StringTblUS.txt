@@ -1,0 +1,4 @@
+Name=Water barrel
+Description=Contains water.
+
+TxtEject=Eject

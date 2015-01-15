@@ -1,0 +1,3 @@
+Name=Geldpunkte
+Description=Jeder Spieler muss die entsprechende Anzahl von Geldpunkten erwirtschaften.
+

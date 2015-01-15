@@ -1,0 +1,17 @@
+local ActMap = {
+Dead = {
+	Prototype = Action,
+	Name = "Dead",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 1,
+	Delay = 3000,
+	X = 0,
+	Y = 0,
+	Wdt = 16,
+	Hgt = 12,
+	NextAction = "Decay",
+},
+
+};

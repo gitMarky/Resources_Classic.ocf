@@ -1,0 +1,13 @@
+/*-- Verbrannte Chemiefabrik --*/
+
+
+#include WRKB
+#include BAS3
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";
+local BlastIncinerate = 100;

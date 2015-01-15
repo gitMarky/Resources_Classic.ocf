@@ -1,0 +1,14 @@
+/*--- Luftabwehrgeschütz ---*/
+
+
+#include CTW3
+
+protected func ConnectID() { return(CTW6); }
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";

@@ -1,0 +1,4 @@
+Name=Bridge segment
+Description=Double click 'dig' to lock segments in place.
+
+TxtLock=Lock in place

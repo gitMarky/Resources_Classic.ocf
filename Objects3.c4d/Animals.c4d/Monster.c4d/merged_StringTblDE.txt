@@ -1,0 +1,3 @@
+Name=Monster
+TxtMovement=Bewegen
+TxtLeave=Zurückverwandeln

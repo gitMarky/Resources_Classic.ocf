@@ -1,0 +1,4 @@
+Name=Feuermonster
+TxtMovement=Bewegen
+TxtAttack=Feuer speien
+TxtLeave=Zurückverwandeln

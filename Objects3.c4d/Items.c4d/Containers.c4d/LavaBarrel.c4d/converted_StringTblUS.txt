@@ -1,0 +1,3 @@
+Name=Lava barrel
+Description=Contains lava.
+

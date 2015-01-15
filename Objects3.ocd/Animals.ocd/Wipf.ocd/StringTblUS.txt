@@ -1,0 +1,6 @@
+Description=Happy little creatures.
+
+TxtMovement=Move
+TxtDrop=Drop item
+TxtDig=Dig
+TxtLeave=Retransform

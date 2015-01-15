@@ -1,0 +1,17 @@
+[DefCore]
+id=OBRL
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+Width=8
+Height=12
+Offset=-4,-5
+Value=25
+Mass=30
+Components=METL=1
+Picture=8,0,60,80
+Vertices=4
+VertexX=-4,3,-4,3
+VertexY=-4,-4,3,3
+VertexFriction=80,80,80,80
+Rotate=1
+Fragile=1

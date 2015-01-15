@@ -1,0 +1,5 @@
+Name=Settlement points
+Description=Each player has to gain the indicated number of score points.
+
+MsgGoalFulfilled=%d score points reached!
+MsgGoalUnfulfilled=%d score points of %d reached.

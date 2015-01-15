@@ -1,0 +1,4 @@
+Name=Attached artillery cannon
+TxtNoammo=No ammo
+TxtShootsn=Shoot %s (%d)
+TxtNotenoughgunpowder=Not enough gunpowder!

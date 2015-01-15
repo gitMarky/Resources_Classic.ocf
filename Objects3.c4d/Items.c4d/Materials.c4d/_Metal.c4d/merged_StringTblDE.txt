@@ -1,0 +1,5 @@
+Name=Metall
+Description=Baumaterial für viele Gebäude. Außerdem für stabilere Brücken und Wände.
+
+TxtNobridgeallowedhere=Hier darf keine Brücke|gebaut werden!
+TxtBuildmetalbridge=Metallbrücke bauen

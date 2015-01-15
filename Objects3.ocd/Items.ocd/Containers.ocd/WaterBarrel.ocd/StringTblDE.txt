@@ -1,0 +1,4 @@
+Name=Wasserfass
+Description=Enthält Wasser.
+
+TxtEject=Ausleeren

@@ -1,0 +1,15 @@
+[DefCore]
+id=LNKT
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=8
+Height=6
+Offset=-4,-3
+Value=10
+Mass=15
+Components=METL=1
+Picture=8,0,80,60
+Vertices=5
+VertexX=0,-4,-4,4,4
+VertexY=1,-3,2,-3,2
+VertexFriction=50,50,50,50,50

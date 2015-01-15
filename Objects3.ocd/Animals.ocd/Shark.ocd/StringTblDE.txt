@@ -1,0 +1,6 @@
+Name=Hai
+Description=Der unangefochtene Herrscher der Meere und Seen.
+
+TxtMovement=Bewegen
+TxtAttack=Beißen
+TxtLeave=Zurückverwandeln

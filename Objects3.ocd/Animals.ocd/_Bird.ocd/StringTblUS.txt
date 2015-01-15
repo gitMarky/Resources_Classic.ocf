@@ -1,0 +1,6 @@
+Name=Bird
+Description=Hazard to air travel.
+
+TxtMovement=Move
+TxtAttack=Bite
+TxtLeave=Retransform

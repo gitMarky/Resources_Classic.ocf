@@ -1,0 +1,3 @@
+Name=Meteorite storm
+Description=One of the most powerful spells against enemy settlements.
+

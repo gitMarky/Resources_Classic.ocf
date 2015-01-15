@@ -1,0 +1,3 @@
+Name=Monsterjagd
+Description=Alle Monster und Monstereier müssen beseitigt werden.
+

@@ -1,0 +1,4 @@
+Name=Truhe
+Description=Eine Truhe. Es können Gegenstände hineingelegt oder herausgenommen werden.
+
+MsgLocked=Die Truhe ist|abgeschlossen.

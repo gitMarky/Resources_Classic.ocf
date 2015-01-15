@@ -1,0 +1,3 @@
+Name=Rock
+Description=The most natural of all elements in Clonk.
+

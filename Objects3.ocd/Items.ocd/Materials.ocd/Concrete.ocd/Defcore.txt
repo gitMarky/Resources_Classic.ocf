@@ -1,0 +1,15 @@
+[DefCore]
+id=CNCR
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectHomebase
+Width=6
+Height=6
+Offset=-3,-3
+Value=2
+Mass=10
+Components=ROCK=2
+Picture=6,0,35,35
+Vertices=1
+VertexY=1
+VertexFriction=100
+Fragile=1

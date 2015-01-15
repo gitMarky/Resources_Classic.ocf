@@ -1,0 +1,4 @@
+Name=Cooked fish
+Description=Cooked food gives more energy.
+
+CtrlEatDesc=Eat

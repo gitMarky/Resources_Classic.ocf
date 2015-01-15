@@ -1,0 +1,38 @@
+local ActMap = {
+Initialize = {
+	Prototype = Action,
+	Name = "Initialize",
+	Length = 1,
+	Delay = 1,
+	NextAction = "Idle",
+	EndCall = "Initialized",
+},
+
+Day = {
+	Prototype = Action,
+	Name = "Day",
+	Length = 1,
+	Delay = 30,
+	NextAction = "Day",
+	StartCall = "Day",
+},
+
+Dusk = {
+	Prototype = Action,
+	Name = "Dusk",
+	Length = 1,
+	Delay = 1,
+	NextAction = "Dusk",
+	StartCall = "Dusk",
+},
+
+Night = {
+	Prototype = Action,
+	Name = "Night",
+	Length = 1,
+	Delay = 30,
+	NextAction = "Night",
+	StartCall = "Night",
+},
+
+};

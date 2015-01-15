@@ -1,0 +1,3 @@
+Name=Skull
+Description=May be found in desert areas.
+

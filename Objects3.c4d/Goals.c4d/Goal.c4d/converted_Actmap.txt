@@ -1,0 +1,12 @@
+local ActMap = {
+Init = {
+	Prototype = Action,
+	Name = "Init",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 10,
+	NextAction = "Idle",
+	EndCall = "PostInit",
+},
+
+};

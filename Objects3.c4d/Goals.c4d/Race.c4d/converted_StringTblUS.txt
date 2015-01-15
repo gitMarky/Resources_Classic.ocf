@@ -1,0 +1,3 @@
+Name=Race
+Description=The first player who reaches the goal wins.
+

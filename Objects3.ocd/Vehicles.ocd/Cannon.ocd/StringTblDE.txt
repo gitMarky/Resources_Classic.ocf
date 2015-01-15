@@ -1,0 +1,7 @@
+Name=Haubitze
+Description=Mächtige Langstreckenwaffe. Benötigt für einen Schuss eine Ladung Schießpulver.
+
+TxtAimup=Zielen: auf
+TxtAimdown=Zielen: ab
+TxtFire=Feuern
+TxtResetview=Sicht zurücksetzen

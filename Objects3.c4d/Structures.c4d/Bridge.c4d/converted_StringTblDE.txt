@@ -1,0 +1,3 @@
+Name=Brückensegment
+Description=Vorsichtig an Kanten heranschieben. Doppelklick 'Graben' zum Verankern.
+

@@ -1,0 +1,16 @@
+local ActMap = {
+Pump = {
+	Prototype = Action,
+	Name = "Pump",
+	Procedure = DFA_NONE,
+	Length = 20,
+	Delay = 3,
+	X = 0,
+	Y = 0,
+	Wdt = 28,
+	Hgt = 32,
+	NextAction = "Pump",
+	StartCall = "Pumping",
+},
+
+};

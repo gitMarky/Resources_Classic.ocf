@@ -1,0 +1,43 @@
+local ActMap = {
+Opening = {
+	Prototype = Action,
+	Name = "Opening",
+	Length = 8,
+	Delay = 3,
+	X = 20,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 24,
+	NextAction = "Open",
+	StartCall = "Opening",
+	EndCall = "CheckGrab",
+},
+
+Open = {
+	Prototype = Action,
+	Name = "Open",
+	Length = 1,
+	Delay = 35,
+	X = 180,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 24,
+	NextAction = "Open",
+},
+
+Closing = {
+	Prototype = Action,
+	Name = "Closing",
+	Length = 8,
+	Reverse = 1,
+	Delay = 3,
+	X = 20,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 24,
+	NextAction = "Closed",
+	StartCall = "Closing",
+	EndCall = "CheckGrab",
+},
+
+};

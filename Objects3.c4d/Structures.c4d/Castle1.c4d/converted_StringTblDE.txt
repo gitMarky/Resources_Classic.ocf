@@ -1,0 +1,3 @@
+Name=Kleine Burg
+Description=Das Zuhause des Clonks ist seine Burg.
+

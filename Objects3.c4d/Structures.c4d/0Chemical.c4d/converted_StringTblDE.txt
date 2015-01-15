@@ -1,0 +1,3 @@
+Name=Chemiefabrik
+Description=Zur Herstellung von Sprengstoffen.
+

@@ -1,0 +1,14 @@
+[DefCore]
+id=LOAM
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase|C4D_SelectInEarth
+Width=6
+Height=6
+Offset=-3,-3
+Value=3
+Mass=8
+Components=ERTH=1
+Picture=0,6,64,64
+Vertices=1
+VertexY=1
+VertexFriction=20

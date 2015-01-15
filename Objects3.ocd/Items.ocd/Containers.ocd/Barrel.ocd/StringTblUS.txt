@@ -1,0 +1,4 @@
+Name=Barrel
+Description=To fill, submerge in liquid.
+
+TxtEject=Empty

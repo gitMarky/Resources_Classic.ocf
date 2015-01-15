@@ -1,0 +1,16 @@
+[DefCore]
+id=CACT
+Version=6,0
+Category=C4D_StaticBack|C4D_SelectVegetation
+Width=16
+Height=30
+Offset=-8,-15
+Value=1
+Mass=100
+Picture=0,0,16,30
+Vertices=1
+VertexY=5
+VertexFriction=50
+Rotate=1
+Float=1
+StretchGrowth=1

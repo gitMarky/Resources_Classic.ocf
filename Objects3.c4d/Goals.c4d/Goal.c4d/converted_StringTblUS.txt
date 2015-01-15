@@ -1,0 +1,3 @@
+Name=Goal control
+Description=Controls the round completion checks.
+

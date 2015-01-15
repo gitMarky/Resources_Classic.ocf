@@ -1,0 +1,3 @@
+Name=Nachwuchs
+Description=Sorgt dafür, dass der ursprüngliche Bestand der plazierten Tiere erhalten bleibt. Funktioniert nur mit dafür vorgesehenen Tiersorten.
+

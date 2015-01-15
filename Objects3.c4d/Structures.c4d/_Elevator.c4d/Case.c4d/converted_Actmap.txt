@@ -1,0 +1,24 @@
+local ActMap = {
+Drill = {
+	Prototype = Action,
+	Name = "Drill",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 10,
+	NextAction = "Drill",
+	StartCall = "Drilling",
+	Sound = "Drill",
+	DigFree = 1,
+},
+
+Ride = {
+	Prototype = Action,
+	Name = "Ride",
+	Procedure = DFA_FLOAT,
+	Delay = 25,
+	NextAction = "Ride",
+	StartCall = "Riding",
+	Sound = "Elevator",
+},
+
+};

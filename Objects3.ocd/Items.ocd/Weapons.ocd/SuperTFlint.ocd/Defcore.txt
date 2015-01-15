@@ -1,0 +1,15 @@
+[DefCore]
+id=STFN
+Version=6,0
+Category=C4D_Object|C4D_SelectMaterial|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=6
+Height=6
+Offset=-3,-3
+Value=8
+Mass=13
+Components=TFLN=1;SPHR=2
+Picture=0,12,64,64
+Vertices=1
+VertexY=1
+VertexFriction=20
+Fragile=1

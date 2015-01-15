@@ -1,0 +1,3 @@
+Name=Batterie
+Description=Lädt elektrische Geräte auf. Der enthaltene Strom liefert sechs Schüsse für das Blitzgeschütz.
+

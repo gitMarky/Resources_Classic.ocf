@@ -1,0 +1,16 @@
+[DefCore]
+id=BAS5
+Version=6,0
+Category=C4D_Structure
+Width=68
+Height=8
+Offset=-34,-4
+Value=1
+Mass=10
+Components=ROCK=3
+SolidMask=0,0,68,8,0,0
+Vertices=2
+VertexX=-27,27
+VertexY=-5,-5
+VertexFriction=100,100
+Construction=1

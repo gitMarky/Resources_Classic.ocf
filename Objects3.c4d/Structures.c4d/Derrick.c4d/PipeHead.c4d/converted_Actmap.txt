@@ -1,0 +1,25 @@
+local ActMap = {
+Move = {
+	Prototype = Action,
+	Name = "Move",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 5,
+	FacetBase = 1,
+	NextAction = "Move",
+	StartCall = "Processing",
+	Sound = "Elevator",
+},
+
+Stop = {
+	Prototype = Action,
+	Name = "Stop",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 5,
+	FacetBase = 1,
+	NextAction = "Stop",
+	StartCall = "Processing",
+},
+
+};

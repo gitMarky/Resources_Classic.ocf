@@ -1,0 +1,12 @@
+/*-- Verbrannter Zauberturm --*/
+
+
+#include BAS2
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";
+local BlastIncinerate = 100;

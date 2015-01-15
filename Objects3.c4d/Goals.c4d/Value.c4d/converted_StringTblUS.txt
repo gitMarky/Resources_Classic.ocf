@@ -1,0 +1,3 @@
+Name=Settlement points
+Description=Each player has to gain the indicated number of score points.
+

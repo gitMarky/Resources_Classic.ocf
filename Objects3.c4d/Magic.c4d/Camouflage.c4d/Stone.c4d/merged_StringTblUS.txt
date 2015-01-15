@@ -1,0 +1,5 @@
+Name=Rock
+Description=Click double-dig to exit while the rock is outside.
+
+DescGetOut=Get Out
+DescMessage=Move

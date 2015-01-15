@@ -1,0 +1,4 @@
+Name=Zielsteuerung
+Description=Steuert die Rundenerfüllungsüberprüfung.
+
+MsgGoalFulfilled=Spielziel erfüllt

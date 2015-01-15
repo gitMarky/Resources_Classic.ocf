@@ -1,0 +1,3 @@
+Name=Cannon
+Description=Heavy artillery. Requires one load of gunpowder per shot.
+

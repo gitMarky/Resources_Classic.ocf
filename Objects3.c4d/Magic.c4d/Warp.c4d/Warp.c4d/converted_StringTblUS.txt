@@ -1,0 +1,3 @@
+Name=Warp
+Description=Warps the magician to a random position. This includes a certain risk, of course.
+

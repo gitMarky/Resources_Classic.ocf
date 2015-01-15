@@ -1,0 +1,16 @@
+[DefCore]
+id=CTW3
+Version=6,0
+Category=C4D_Vehicle|C4D_SelectVehicle|C4D_SelectKnowledge|C4D_SelectHomebase
+Width=19
+Height=8
+Offset=-10,-4
+Value=30
+Mass=80
+Components=METL=3;WOOD=2
+Picture=19,0,64,64
+Vertices=4
+VertexX=-10,9,-10,9
+VertexY=-4,-4,3,3
+VertexFriction=40,40,40,40,40,40
+Rotate=1

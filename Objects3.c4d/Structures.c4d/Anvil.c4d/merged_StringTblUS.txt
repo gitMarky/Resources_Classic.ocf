@@ -1,0 +1,11 @@
+Name=Anvil
+Description=The anvil produces weapons, construction kits, and numerous other items.
+
+Grab and double click 'dig'. The smith needs to carry the required materials.
+
+TxtProduce=Produce
+TxtCancelproduction=Cancel production
+TxtNoPlans=No plans available.
+TxtProduceMenu=Produce: %s
+TxtNeedMaterial=%s needs:
+TxtNeedMaterialComponent=%dx %s

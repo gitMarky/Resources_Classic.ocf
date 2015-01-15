@@ -1,0 +1,12 @@
+local ActMap = {
+Left = {
+	Prototype = Action,
+	Name = "Left",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "Left",
+},
+
+};

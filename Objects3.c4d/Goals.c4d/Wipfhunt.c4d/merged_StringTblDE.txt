@@ -1,0 +1,6 @@
+Name=Wipfe retten
+Description=Alle Wipfe müssen eingefangen und verkauft werden. Wird das Spielzielobjekt mehr als einmal platziert, darf die entsprechende Menge an Wipfen sterben, bevor das Spielziel verloren ist.
+
+MsgFailed=Es sind zuviele Wipfe gestorben.
+MsgSuccess=Keine Wipfe mehr zu retten.
+MsgTodo=Noch %d Wipfe zu retten. Es sind schon %d Wipfe gestorben (%d erlaubt).

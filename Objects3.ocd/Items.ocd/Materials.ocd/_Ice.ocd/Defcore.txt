@@ -1,0 +1,17 @@
+[DefCore]
+id=ICE1
+Version=6,0
+Category=C4D_Object
+Width=10
+Height=10
+Offset=-5,-5
+Mass=8
+Components=IICE=4
+Picture=10,0,35,35
+Vertices=3
+VertexX=-3,4,-3
+VertexY=-4,3,5
+VertexFriction=20,20,20
+Rotate=1
+Float=1
+StretchGrowth=1

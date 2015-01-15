@@ -1,0 +1,15 @@
+Name=Signal
+Description=Controls trains. Grab to set: down (through), up (halt and go), left/right (halt and turn), throw (load/unload), double dig (deconstruct).
+
+Items and vehicles can be automatically loaded if they are placed at the point where the wagon comes to a halt.
+
+TxtThrough=Through
+TxtHaltandgo=Halt and go
+TxtHaltandturnleft=Halt and turn left
+TxtHaltandturnright=Halt and turn right
+TxtLoadunload=Load/unload
+TxtDeconstruct=Deconstruct
+TxtThrough=Through
+TxtHaltandgo=Halt and go
+TxtLoadunload=Load/unload
+TxtDeconstruct=Deconstruct

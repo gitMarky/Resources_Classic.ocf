@@ -1,0 +1,17 @@
+[DefCore]
+id=GATR
+Version=6,0
+Category=C4D_Vehicle
+Width=12
+Height=24
+Offset=-6,-12
+Value=10
+Mass=100
+Components=METL=2
+SolidMask=8,0,3,24,8,0
+Picture=0,0,12,24
+Vertices=2
+VertexY=-12,11
+VertexFriction=100,100
+Float=100
+HorizontalFix=1

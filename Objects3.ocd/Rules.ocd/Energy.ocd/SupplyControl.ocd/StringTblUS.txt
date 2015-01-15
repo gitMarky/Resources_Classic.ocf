@@ -1,0 +1,4 @@
+Name=Power supply
+Description=This object provides energy supply orders for structures.
+
+TxtEnergysupply=Energy supply

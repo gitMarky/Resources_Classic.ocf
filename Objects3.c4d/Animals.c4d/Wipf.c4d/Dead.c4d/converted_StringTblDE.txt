@@ -1,0 +1,3 @@
+Name=Toter Wipf
+Description=Nicht mehr so viel wert.
+

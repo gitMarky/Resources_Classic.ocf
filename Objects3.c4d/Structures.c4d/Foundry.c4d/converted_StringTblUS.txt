@@ -1,0 +1,3 @@
+Name=Foundry
+Description=Turns ore and firing fuel into metal.
+

@@ -1,0 +1,3 @@
+Name=Löschen
+Description=Löscht den zaubernden Clonk oder ein nahe gelegenes Objekt.
+

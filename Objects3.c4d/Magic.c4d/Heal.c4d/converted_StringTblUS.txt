@@ -1,0 +1,3 @@
+Name=Heal
+Description=Heals a wounded clonk.
+

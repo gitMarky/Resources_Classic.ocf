@@ -1,0 +1,3 @@
+Name=Erz
+Description=Kann im Hochofen zu Metall eingeschmolzen werden.
+

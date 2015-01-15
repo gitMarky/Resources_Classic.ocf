@@ -1,0 +1,3 @@
+Name=Wagon
+Description=For fast transportation of large amounts of material. Controls a connected engine.
+

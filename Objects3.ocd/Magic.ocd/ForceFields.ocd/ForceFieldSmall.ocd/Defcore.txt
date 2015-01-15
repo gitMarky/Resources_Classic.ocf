@@ -1,0 +1,14 @@
+[DefCore]
+id=FRCS
+Version=6,0
+Category=C4D_Living
+Width=100
+Height=100
+Offset=-50,-50
+SolidMask=0,100,100,18
+TopFace=0,0,100,100,0,0
+Picture=0,0,100,100
+Vertices=1
+IncompleteActivity=1
+AttractLightning=1
+NoBreath=1

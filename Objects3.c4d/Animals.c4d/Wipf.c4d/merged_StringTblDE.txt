@@ -1,0 +1,6 @@
+Description=Lebenslustige pelzige Beuteltiere.
+
+TxtMovement=Bewegen
+TxtDrop=Gegenstand fallen lassen
+TxtDig=Graben
+TxtLeave=Zurückverwandeln

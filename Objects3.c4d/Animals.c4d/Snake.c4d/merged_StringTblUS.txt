@@ -1,0 +1,7 @@
+Name=Snake
+Description=Poisonous.
+
+TxtMovement=Move
+TxtAttack=Bite
+TxtLeave=Retransform
+TxtEmbowel=Embowel

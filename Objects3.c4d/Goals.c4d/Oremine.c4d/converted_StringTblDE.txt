@@ -1,0 +1,3 @@
+Name=Erzabbau
+Description=Es müssen alles Erz im Erdreich abgebaut und alle Erzklumpen verkauft werden.
+

@@ -1,0 +1,3 @@
+Name=Dauerhafte Flamme
+Description=Vernichter von Materialien.
+

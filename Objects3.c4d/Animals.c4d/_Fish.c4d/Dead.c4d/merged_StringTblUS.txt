@@ -1,0 +1,4 @@
+Name=Dead fish
+Description=Stinks.
+
+TxtEmbowel=Embowel

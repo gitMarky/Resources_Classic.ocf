@@ -1,0 +1,3 @@
+Name=Knochen
+Description=Recht geschmacklose Dekoration.
+

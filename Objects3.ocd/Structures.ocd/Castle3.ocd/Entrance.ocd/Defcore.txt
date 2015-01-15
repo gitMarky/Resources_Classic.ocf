@@ -1,0 +1,17 @@
+[DefCore]
+id=CSTE
+Version=6,0
+Category=C4D_Vehicle
+Width=27
+Height=23
+Offset=-13,-12
+Value=10
+Mass=50
+Components=ROCK=2
+Vertices=4
+VertexX=-4,4,-4,4
+VertexY=0,0,11,11
+VertexFriction=100,100,100,100
+Entrance=-10,-11,14,23
+Construction=1
+ConstructTo=NONE

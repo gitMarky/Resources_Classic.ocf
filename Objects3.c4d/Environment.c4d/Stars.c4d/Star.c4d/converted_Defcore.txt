@@ -1,0 +1,10 @@
+[DefCore]
+id=STAR
+Version=6,0
+Category=C4D_StaticBack|C4D_Background
+Width=4
+Height=4
+Offset=-2,-2
+Value=1
+Picture=27,0,3,3
+BlitMode=1

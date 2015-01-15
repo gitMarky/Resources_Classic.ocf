@@ -1,0 +1,3 @@
+Name=Konstruktion
+Description=Alle vorhandenen Baupläne müssen realisiert werden.
+

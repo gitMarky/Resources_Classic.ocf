@@ -1,0 +1,9 @@
+Name=U-Boot
+Description=Einstieg durch den Turm, Ausstieg mit Doppel-'Rauf'. Geladene Torpedos können per 'Graben' abgefeuert werden.
+
+TxtComUp=Nach oben fahren
+TxtComDown=Nach unten fahren
+TxtComLeft=Nach links fahren
+TxtComRight=Nach rechts fahren
+TxtExit=Aussteigen
+TxtFire=Torpedo abfeuern

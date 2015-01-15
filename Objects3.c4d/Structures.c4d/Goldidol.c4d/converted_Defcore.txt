@@ -1,0 +1,16 @@
+[DefCore]
+id=GIDL
+Version=6,0
+Category=C4D_Structure|C4D_SelectBuilding|C4D_SelectKnowledge|C4D_SelectVegetation
+Width=22
+Height=32
+Offset=-11,-16
+Value=50
+Mass=150
+Components=GOLD=4
+Vertices=4
+VertexX=-5,3,-5,3
+VertexY=15,15,-11,-11
+VertexFriction=50,50,50,50
+Construction=1
+Rotate=1

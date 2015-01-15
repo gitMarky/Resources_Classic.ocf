@@ -1,0 +1,3 @@
+Name=Eisklumpen
+Description=Ein Stück gefrorenes Wasser.
+

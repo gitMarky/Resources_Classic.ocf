@@ -1,0 +1,4 @@
+Name=Fass
+Description=Zum Auffüllen untertauchen.
+
+TxtEject=Ausleeren

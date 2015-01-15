@@ -1,0 +1,6 @@
+Name=Segelboot
+Description=Zum Überqueren kleinerer Gewässer.
+
+TxtLeft=Links
+TxtRight=Rechts
+TxtLand=Anlanden

@@ -1,0 +1,16 @@
+local ActMap = {
+Walk = {
+	Prototype = Action,
+	Name = "Walk",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Delay = 100,
+	X = 0,
+	Y = 0,
+	Wdt = 32,
+	Hgt = 9,
+	NextAction = "Walk",
+},
+
+};

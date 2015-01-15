@@ -1,0 +1,3 @@
+Name=Sorcerer
+Description=Can extract magic energy from crystals without a magic tower.
+

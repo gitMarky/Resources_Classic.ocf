@@ -1,0 +1,3 @@
+Name=Ölförderung
+Description=Alles Öl im Erdreich muss abgepumpt werden und alle Ölfässer müssen verkauft werden.
+

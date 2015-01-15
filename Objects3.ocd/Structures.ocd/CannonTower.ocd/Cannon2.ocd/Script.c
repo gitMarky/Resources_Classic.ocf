@@ -1,0 +1,14 @@
+/*--- Artilleriegeschütz ---*/
+
+
+#include CTW3
+
+protected func ConnectID() { return(CTW4); }
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";

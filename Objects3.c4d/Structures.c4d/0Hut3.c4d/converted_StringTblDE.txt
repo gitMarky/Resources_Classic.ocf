@@ -1,0 +1,3 @@
+Name=Hütte
+Description=Eine solide Heimatbasis, die auch vor Angriffen Schutz bietet.
+

@@ -1,0 +1,5 @@
+Name=Sägewerk
+Description=Gefällte Bäume können hier zu Bau- oder Feuerholz zerkleinert werden.
+
+TxtNomoresuitabletrees=Keine geeigneten|Bäume mehr!
+TxtProducewood=Holzproduktion

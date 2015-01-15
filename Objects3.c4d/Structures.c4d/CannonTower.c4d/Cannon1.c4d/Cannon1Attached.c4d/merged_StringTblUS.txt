@@ -1,0 +1,4 @@
+Name=Attached combat cannon
+TxtNoammo=No ammo
+TxtShoots=Shoot %s
+TxtNotenoughgunpowder1r=Not enough gunpowder!|(%d required)

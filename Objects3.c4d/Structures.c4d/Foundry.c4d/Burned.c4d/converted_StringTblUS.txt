@@ -1,0 +1,3 @@
+Name=Burned foundry
+Description=Can be rebuilt on level ground.
+

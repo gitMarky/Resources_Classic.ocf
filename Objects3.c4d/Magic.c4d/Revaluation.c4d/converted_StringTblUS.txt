@@ -1,0 +1,3 @@
+Name=Revaluation
+Description=Will upgrade a clonk to sorcerer powers for the duration of the round.
+

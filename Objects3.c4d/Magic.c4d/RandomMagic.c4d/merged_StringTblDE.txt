@@ -1,0 +1,4 @@
+Name=Zufallszauber
+Description=Erzeugt zufällig einen Zauber.
+
+TxtNothing=Nix

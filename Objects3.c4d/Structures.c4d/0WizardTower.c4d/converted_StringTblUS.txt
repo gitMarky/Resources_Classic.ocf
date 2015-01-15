@@ -1,0 +1,3 @@
+Name=Magic tower
+Description=Converts crystal and lightning strikes to magical energy. Magic clonks can recharge magical energy in the tower.
+

@@ -1,0 +1,3 @@
+Name=Chunk of lava
+Description=Cast out from the inner earth.
+

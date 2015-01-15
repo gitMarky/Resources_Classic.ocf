@@ -1,0 +1,29 @@
+local ActMap = {
+Rolling1 = {
+	Prototype = Action,
+	Name = "Rolling1",
+	Procedure = DFA_NONE,
+	Length = 20,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 48,
+	Hgt = 48,
+	NextAction = "Rolling1",
+},
+
+Rolling2 = {
+	Prototype = Action,
+	Name = "Rolling2",
+	Procedure = DFA_NONE,
+	Length = 20,
+	Reverse = 1,
+	Delay = 2,
+	X = 0,
+	Y = 0,
+	Wdt = 48,
+	Hgt = 48,
+	NextAction = "Rolling2",
+},
+
+};

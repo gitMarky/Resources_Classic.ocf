@@ -1,0 +1,3 @@
+Name=Time of day
+Description=Makes night follow day. The placement factor determines the speed.
+

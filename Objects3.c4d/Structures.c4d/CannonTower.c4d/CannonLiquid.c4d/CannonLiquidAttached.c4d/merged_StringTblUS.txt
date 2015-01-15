@@ -1,0 +1,4 @@
+Name=Attached liquid cannon
+TxtNoammo=No ammo
+TxtShoots=Shoot %s
+TxtShootsAll=Shoot all

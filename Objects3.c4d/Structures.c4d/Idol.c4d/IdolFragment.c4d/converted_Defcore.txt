@@ -1,0 +1,16 @@
+[DefCore]
+id=IDLS
+Version=6,0
+Category=C4D_Object
+Width=15
+Height=13
+Offset=-7,-6
+Value=2
+Mass=25
+Components=ROCK=1
+Picture=0,0,15,13
+Vertices=4
+VertexX=2,2,-3
+VertexY=3,-3,5
+VertexFriction=30,20,30,20
+Rotate=1

@@ -1,0 +1,3 @@
+Name=Burned tree
+Description=Chop down and cut to wood.
+

@@ -1,0 +1,3 @@
+Name=Palme
+Description=Kann gefällt und zu Holz zersägt werden.
+

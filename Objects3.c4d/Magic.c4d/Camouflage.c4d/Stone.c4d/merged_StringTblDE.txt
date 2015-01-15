@@ -1,0 +1,5 @@
+Name=Stein
+Description=Doppel-Graben um im Freien wieder herauszutreten.
+
+DescGetOut=Rauszaubern
+DescMessage=Bewegen

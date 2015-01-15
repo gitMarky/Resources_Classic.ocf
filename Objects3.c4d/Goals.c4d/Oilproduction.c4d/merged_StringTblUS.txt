@@ -1,0 +1,6 @@
+Name=Oil Production
+Description=All oil needs to be extracted and all oil barrels must be sold.
+
+done=All oil has been extracted and sold!
+todo2=You still have to extract an unknown amount of oil. %d barrels are currently filled and have to be sold.
+todo=You still have to extract %d barrels of oil. %d barrels are currently filled and have to be sold.

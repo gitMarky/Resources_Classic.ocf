@@ -1,0 +1,5 @@
+Name=Sawmill
+Description=Cuts trees to wood.
+
+TxtNomoresuitabletrees=No more suitable trees!
+TxtProducewood=Produce wood

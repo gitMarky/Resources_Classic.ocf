@@ -1,0 +1,3 @@
+Name=Meteor
+Description=Eine heitere Botschaft aus den höheren Luftschichten.
+

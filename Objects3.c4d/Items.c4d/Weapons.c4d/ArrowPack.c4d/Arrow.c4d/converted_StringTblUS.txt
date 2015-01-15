@@ -1,0 +1,3 @@
+Name=Arrow
+Description=A light and quick projectile.
+

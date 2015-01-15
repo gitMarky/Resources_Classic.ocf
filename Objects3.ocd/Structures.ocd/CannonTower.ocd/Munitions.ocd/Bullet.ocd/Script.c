@@ -1,0 +1,15 @@
+/* Kugel */
+
+
+protected func Hit()
+{
+  Explode(8);
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";
+local Collectible = 1;

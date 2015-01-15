@@ -1,0 +1,14 @@
+local ActMap = {
+Activated = {
+	Prototype = Action,
+	Name = "Activated",
+	Delay = 120,
+	X = 0,
+	Y = 6,
+	Wdt = 6,
+	Hgt = 6,
+	NextAction = "TimeOver",
+	Sound = "Fusing",
+},
+
+};

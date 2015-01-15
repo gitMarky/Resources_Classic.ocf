@@ -1,0 +1,11 @@
+Name=Amboss
+Description=Mit dem Amboss lassen sich verschiedene Handwaffen sowie Bausätze herstellen.
+
+Anfassen und Doppelklick auf Graben. Der Clonk sollte das benötigte Material bei sich tragen.
+
+TxtProduce=Schmieden
+TxtCancelproduction=Herstellung abbrechen
+TxtNoPlans=Keine Baupläne vorhanden
+TxtProduceMenu=Herstellen: %s
+TxtNeedMaterial=%s benötigt noch:
+TxtNeedMaterialComponent=%dx %s

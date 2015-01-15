@@ -1,0 +1,5 @@
+Name=Money Points
+Description=Each player has to gain the indicated number of money points.
+
+MsgGoalFulfilled=%d wealth points reached!
+MsgGoalUnfulfilled=%d wealth points of %d reached.

@@ -1,0 +1,28 @@
+local ActMap = {
+Wipf1 = {
+	Prototype = Action,
+	Name = "Wipf1",
+	Procedure = DFA_ATTACH,
+	Length = 5,
+	Delay = 3,
+	X = 0,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 28,
+	NextAction = "Wipf1",
+},
+
+Wipf2 = {
+	Prototype = Action,
+	Name = "Wipf2",
+	Procedure = DFA_ATTACH,
+	Length = 5,
+	Delay = 3,
+	X = 0,
+	Y = 28,
+	Wdt = 24,
+	Hgt = 28,
+	NextAction = "Wipf2",
+},
+
+};

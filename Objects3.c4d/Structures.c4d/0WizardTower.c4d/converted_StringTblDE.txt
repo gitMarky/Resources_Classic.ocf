@@ -1,0 +1,3 @@
+Name=Zauberturm
+Description=Wandelt Kristalle und Blitze in Zauberenergie um. Zauberclonks können im Turm Energie aufladen.
+

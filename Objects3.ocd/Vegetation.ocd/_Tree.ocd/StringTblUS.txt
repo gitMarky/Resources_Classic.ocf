@@ -1,0 +1,4 @@
+Name=Tree behavior
+Description=Controls tree behavior.
+
+TxtChop=Chop

@@ -1,0 +1,12 @@
+/*-- Verbranntes Forschungslabor --*/
+
+
+#include BAS5
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// properties
+
+local Name = "$Name$";
+local Description = "$Description$";
+local BlastIncinerate = 100;

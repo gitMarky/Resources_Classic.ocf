@@ -1,0 +1,5 @@
+Name=Geldpunkte
+Description=Jeder Spieler muss die entsprechende Anzahl von Geldpunkten erwirtschaften.
+
+MsgGoalFulfilled=%d Geldpunkte errreicht!
+MsgGoalUnfulfilled=%d Geldpunkte von %d erreicht.

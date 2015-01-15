@@ -1,0 +1,3 @@
+Name=Chunk of earth
+Description=Hit 'dig' again while digging, to create chunks that can be picked up.
+

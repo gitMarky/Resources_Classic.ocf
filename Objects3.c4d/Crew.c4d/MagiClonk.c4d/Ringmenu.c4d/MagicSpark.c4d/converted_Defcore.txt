@@ -1,0 +1,9 @@
+[DefCore]
+id=MSPK
+Version=6,0
+Category=C4D_Living
+Width=10
+Height=10
+Offset=-5,-5
+Picture=0,0,10,10
+NoBreath=1

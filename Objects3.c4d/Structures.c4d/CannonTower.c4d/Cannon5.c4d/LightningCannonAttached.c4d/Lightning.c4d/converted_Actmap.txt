@@ -1,0 +1,21 @@
+local ActMap = {
+Advance = {
+	Prototype = Action,
+	Name = "Advance",
+	Procedure = DFA_NONE,
+	Delay = 1,
+	NextAction = "Advance",
+	StartCall = "Advance",
+},
+
+Connect = {
+	Prototype = Action,
+	Name = "Connect",
+	Procedure = DFA_NONE,
+	Length = 30,
+	Delay = 1,
+	NextAction = "Remove",
+	PhaseCall = "Sparkle",
+},
+
+};

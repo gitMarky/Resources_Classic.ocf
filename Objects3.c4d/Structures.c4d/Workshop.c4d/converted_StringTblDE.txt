@@ -1,0 +1,3 @@
+Name=Werkstatt
+Description=Fabrik für Fahrzeuge und schwere Waffen.
+

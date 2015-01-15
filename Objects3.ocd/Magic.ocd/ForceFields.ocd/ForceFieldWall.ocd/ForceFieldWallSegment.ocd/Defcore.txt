@@ -1,0 +1,11 @@
+[DefCore]
+id=FCWS
+Version=6,0
+Category=C4D_Living
+Width=8
+Height=20
+Offset=-4,-10
+SolidMask=16,0,8,20,0,0
+Picture=0,0,8,20
+IncompleteActivity=1
+NoBreath=1

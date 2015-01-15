@@ -1,0 +1,5 @@
+Name=Gravitation Up
+Description=Raise gravitation by 20 percent.
+
+MsgAlreadyMaxed=Gravitation already|at maximum!
+MsgRaised=Gravitation raised.|Gravitation now %d%.

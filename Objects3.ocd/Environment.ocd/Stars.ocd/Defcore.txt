@@ -1,0 +1,6 @@
+[DefCore]
+id=STRS
+Version=6,0
+Category=C4D_StaticBack|C4D_Environment
+Value=1
+Picture=0,0,64,64

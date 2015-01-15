@@ -1,0 +1,9 @@
+Name=Leitungsbausatz
+Description=Zum Verlegen von Energieleitungen und Rohren. Anwendung: vor einem Versorgergeb‰ude 'Leitung anschlieﬂen' w‰hlen, dann vor das Zielgeb‰ude laufen und wieder 'Leitung anschlieﬂen' w‰hlen. Die erste an eine Pumpe angeschlossene Leitung wird immer ein Zuflussrohr, die zweite ein Abflussrohr.
+
+TxtConnectline=Leitung anschlieﬂen
+TxtNoNewLine=Neue Leitung hier|nicht mˆglich.
+TxtLineRemoval=%s abgenommen.
+TxtNewLine=Konstruktion|%s.
+TxtNoConnectType=%s kann nicht an|%s angeschlossen werden.
+TxtConnect=%s an|%s angeschlossen

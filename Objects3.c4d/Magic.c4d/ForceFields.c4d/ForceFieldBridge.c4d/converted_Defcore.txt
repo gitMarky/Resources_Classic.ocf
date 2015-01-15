@@ -1,0 +1,8 @@
+[DefCore]
+id=FBRG
+Version=6,0
+Category=C4D_StaticBack
+Width=72
+Height=8
+Offset=-27,-10
+Picture=0,0,74,8

@@ -1,0 +1,9 @@
+[DefCore]
+id=EXTG
+Version=6,0
+Category=C4D_Magic
+Width=1
+Height=1
+Value=15
+Components=IASH=3
+Picture=0,0,64,64

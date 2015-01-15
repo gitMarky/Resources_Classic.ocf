@@ -1,0 +1,3 @@
+Name=Magic Brigde
+Description=Creates a temporary force bridge.
+

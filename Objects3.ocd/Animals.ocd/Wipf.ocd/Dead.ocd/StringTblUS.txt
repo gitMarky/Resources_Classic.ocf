@@ -1,0 +1,4 @@
+Name=Dead wipf
+Description=Worth less.
+
+TxtEmbowel=Embowel

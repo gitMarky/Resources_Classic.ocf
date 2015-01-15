@@ -1,0 +1,13 @@
+[DefCore]
+id=GRAS
+Version=6,0
+Category=C4D_StaticBack
+Width=40
+Height=30
+Offset=-20,-15
+Mass=1
+Vertices=1
+VertexY=14
+Rotate=1
+StretchGrowth=1
+IncompleteActivity=1

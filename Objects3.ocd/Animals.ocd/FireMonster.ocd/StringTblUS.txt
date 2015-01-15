@@ -1,0 +1,4 @@
+Name=Fire monster
+TxtMovement=Move
+TxtAttack=Flame
+TxtLeave=Retransform

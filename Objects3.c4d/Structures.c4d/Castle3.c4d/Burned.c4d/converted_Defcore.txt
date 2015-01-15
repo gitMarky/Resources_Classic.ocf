@@ -1,0 +1,17 @@
+[DefCore]
+id=CSB3
+Version=6,0
+Category=C4D_Structure
+Width=96
+Height=144
+Offset=-48,-72
+Value=200
+Mass=20000
+Components=ROCK=20;WOOD=8;METL=5
+Vertices=4
+VertexX=30,-27,-35,35
+VertexY=-53,-68,71,71
+VertexFriction=50,50,50,50
+Exclusive=1
+Construction=1
+ConstructTo=CST3

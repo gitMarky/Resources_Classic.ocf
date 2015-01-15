@@ -1,0 +1,4 @@
+Name=Release Clonk
+Description=Select this item in the rule menu to release the controlled clonk.
+
+MsgReleased=%s released.

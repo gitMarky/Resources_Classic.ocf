@@ -1,0 +1,3 @@
+Name=Lavafass
+Description=Gespeicherte feurige Energie aus dem Inneren der Erde.
+

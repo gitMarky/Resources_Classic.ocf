@@ -1,0 +1,11 @@
+[DefCore]
+id=DPLI
+Version=6,0
+Category=C4D_StaticBack
+Width=3
+Height=3
+Offset=-1,-1
+Mass=10
+Components=DPLI=1
+Picture=3,0,36,32
+Vertices=1

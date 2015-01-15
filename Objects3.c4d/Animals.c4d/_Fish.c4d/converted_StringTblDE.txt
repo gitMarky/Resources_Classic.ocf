@@ -1,0 +1,3 @@
+Name=Fisch
+Description=Kleiner Bewohner des Meeres.
+

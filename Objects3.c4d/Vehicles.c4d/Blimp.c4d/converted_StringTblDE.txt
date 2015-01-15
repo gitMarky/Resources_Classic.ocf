@@ -1,0 +1,3 @@
+Name=Luftschiff
+Description=Absolute Luftherrschaft.
+

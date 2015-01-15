@@ -1,0 +1,3 @@
+Name=Meteoritenhagel
+Description=Durchschlagende Waffe gegen gegnerische Siedlungen.
+

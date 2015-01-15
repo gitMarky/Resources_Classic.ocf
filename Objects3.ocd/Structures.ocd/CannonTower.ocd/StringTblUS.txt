@@ -1,0 +1,6 @@
+Name=Cannon tower
+TxtRotatecannontothelef=Rotate cannon to the left
+TxtRotatecannontotherig=Rotate cannon to the right
+TxtStopcannonrotation=Stop cannon rotation
+TxtDisconnectcannon=Disconnect cannon
+TxtFire=Fire

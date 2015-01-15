@@ -1,0 +1,3 @@
+Name=Hochofen
+Description=Erzeugt aus Erz und Brennmaterial Metall.
+

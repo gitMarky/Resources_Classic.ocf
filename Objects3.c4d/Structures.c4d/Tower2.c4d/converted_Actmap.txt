@@ -1,0 +1,36 @@
+local ActMap = {
+OpenDoor = {
+	Prototype = Action,
+	Name = "OpenDoor",
+	Procedure = DFA_NONE,
+	Length = 10,
+	Delay = 1,
+	X = 0,
+	Y = 64,
+	Wdt = 10,
+	Hgt = 15,
+	OffX = 17,
+	OffY = 49,
+	FacetBase = 1,
+	NextAction = "DoorOpen",
+	StartCall = "SoundOpenDoor",
+},
+
+DoorOpen = {
+	Prototype = Action,
+	Name = "DoorOpen",
+	Procedure = DFA_NONE,
+	Delay = 15,
+	X = 90,
+	Y = 64,
+	Wdt = 10,
+	Hgt = 15,
+	OffX = 17,
+	OffY = 49,
+	FacetBase = 1,
+	NextAction = "CloseDoor",
+	StartCall = "OpenEntrance",
+	EndCall = "CloseEntrance",
+},
+
+};

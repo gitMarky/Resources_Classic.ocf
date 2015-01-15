@@ -1,0 +1,3 @@
+Name=Door control
+Description=This object provides basic control for structures with a door.
+

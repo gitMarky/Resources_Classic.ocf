@@ -1,0 +1,3 @@
+Name=Dead fire monster
+Description=Forever extinct.
+

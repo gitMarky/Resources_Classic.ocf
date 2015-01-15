@@ -1,0 +1,6 @@
+Name=Revaluation
+Description=Will upgrade a clonk to sorcerer powers for the duration of the round.
+
+# Nachrichten
+MsgIsRev=%s is|already a %s.
+MsgBlocked=%s can't revaluate|to %s.

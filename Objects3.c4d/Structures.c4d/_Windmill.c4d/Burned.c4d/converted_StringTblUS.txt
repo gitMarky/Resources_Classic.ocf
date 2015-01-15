@@ -1,0 +1,3 @@
+Name=Burned windmill
+Description=Can be rebuilt on level ground.
+
