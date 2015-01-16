@@ -437,4 +437,19 @@ Fleck12 = {
 	NextAction = "Hold",
 },
 
+Fleck13 = {
+	Prototype = Action,
+	Name = "Fleck13",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 0,
+	X = 192,
+	Y = 98,
+	Wdt = 195,
+	Hgt = 195,
+	OffX = -97,
+	OffY = -97,
+	NextAction = "Hold",
+},
+
 };

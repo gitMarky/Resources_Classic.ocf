@@ -1,5 +1,0 @@
-[Action]
-Name=Field
-Procedure=FLOAT
-FacetBase=1
-Sound=Energy

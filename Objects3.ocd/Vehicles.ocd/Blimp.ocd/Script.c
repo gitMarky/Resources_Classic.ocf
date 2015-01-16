@@ -477,4 +477,20 @@ WaterLand = {
 	NextAction = "WaterLand",
 },
 
+WaterLaunch = {
+	Prototype = Action,
+	Name = "WaterLaunch",
+	Procedure = DFA_FLOAT,
+	Directions = 2,
+	FlipDir = 1,
+	Delay = 50,
+	X = 0,
+	Y = 0,
+	Wdt = 68,
+	Hgt = 60,
+	FacetTopFace = 1,
+	NextAction = "FloatIdle",
+	StartCall = "FloatProcess",
+},
+
 };

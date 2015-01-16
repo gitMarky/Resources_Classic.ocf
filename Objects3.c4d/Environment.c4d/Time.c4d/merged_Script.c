@@ -161,4 +161,13 @@ Initialize = {
 	EndCall = "Initialized",
 },
 
+Time = {
+	Prototype = Action,
+	Name = "Time",
+	Length = 1,
+	Delay = 10,
+	NextAction = "Time",
+	StartCall = "Timing",
+},
+
 };

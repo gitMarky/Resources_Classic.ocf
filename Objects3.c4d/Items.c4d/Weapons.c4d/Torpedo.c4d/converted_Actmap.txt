@@ -13,4 +13,21 @@ Walk = {
 	NextAction = "Walk",
 },
 
+Swim = {
+	Prototype = Action,
+	Name = "Swim",
+	Procedure = DFA_SWIM,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 5,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 32,
+	Hgt = 9,
+	NextAction = "Swim",
+	StartCall = "Swimming",
+	Sound = "Torpedo",
+},
+
 };

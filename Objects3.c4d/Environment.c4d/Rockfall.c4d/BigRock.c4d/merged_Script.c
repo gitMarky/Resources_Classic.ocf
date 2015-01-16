@@ -150,4 +150,17 @@ Rolling2 = {
 	NextAction = "Rolling2",
 },
 
+Rolling3 = {
+	Prototype = Action,
+	Name = "Rolling3",
+	Procedure = DFA_NONE,
+	Length = 20,
+	Delay = 2,
+	X = 0,
+	Y = 0,
+	Wdt = 48,
+	Hgt = 48,
+	NextAction = "Rolling3",
+},
+
 };

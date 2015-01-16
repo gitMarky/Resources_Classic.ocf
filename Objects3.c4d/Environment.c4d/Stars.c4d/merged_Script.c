@@ -113,4 +113,13 @@ Night = {
 	StartCall = "Night",
 },
 
+Dawn = {
+	Prototype = Action,
+	Name = "Dawn",
+	Length = 1,
+	Delay = 1,
+	NextAction = "Dawn",
+	StartCall = "Dawn",
+},
+
 };

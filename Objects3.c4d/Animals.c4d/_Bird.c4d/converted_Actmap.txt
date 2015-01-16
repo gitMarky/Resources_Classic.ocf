@@ -79,4 +79,20 @@ Eat = {
 	EndCall = "Eating",
 },
 
+BuildNest = {
+	Prototype = Action,
+	Name = "BuildNest",
+	Procedure = DFA_FLOAT,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 20,
+	Delay = 2,
+	X = 0,
+	Y = 48,
+	Wdt = 28,
+	Hgt = 24,
+	NextAction = "BuildNest",
+	EndCall = "Build",
+},
+
 };

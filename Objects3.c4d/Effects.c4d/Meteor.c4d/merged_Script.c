@@ -43,4 +43,13 @@ local NoBurnDecay = 1;
 // actions
 
 local ActMap = {
+Evaporate = {
+	Prototype = Action,
+	Name = "Evaporate",
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Evaporate",
+	StartCall = "SmokeTrail",
+},
+
 };

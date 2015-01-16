@@ -20,4 +20,14 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Consolidate = {
+	Prototype = Action,
+	Name = "Consolidate",
+	Length = 1,
+	Delay = 20,
+	FacetBase = 1,
+	NextAction = "None",
+	EndCall = "Consolidated",
+},
+
 };

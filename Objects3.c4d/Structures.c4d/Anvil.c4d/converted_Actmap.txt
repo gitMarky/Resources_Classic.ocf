@@ -1,2 +1,20 @@
 local ActMap = {
+Forge = {
+	Prototype = Action,
+	Name = "Forge",
+	Procedure = DFA_NONE,
+	Length = 7,
+	Delay = 3,
+	X = 24,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 22,
+	OffX = 2,
+	OffY = -2,
+	FacetBase = 1,
+	NextAction = "Forge",
+	StartCall = "Forging",
+	EndCall = "Effects",
+},
+
 };

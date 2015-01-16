@@ -438,4 +438,20 @@ Turn = {
 	NextAction = "Swim",
 },
 
+Jump = {
+	Prototype = Action,
+	Name = "Jump",
+	Procedure = DFA_FLIGHT,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 15,
+	Delay = 1,
+	X = 0,
+	Y = 24,
+	Wdt = 16,
+	Hgt = 12,
+	NextAction = "Hold",
+	InLiquidAction = "Swim",
+},
+
 };

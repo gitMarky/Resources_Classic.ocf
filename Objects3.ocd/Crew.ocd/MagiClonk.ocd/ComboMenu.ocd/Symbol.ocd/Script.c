@@ -159,4 +159,14 @@ Right = {
 	NextAction = "Hold",
 },
 
+Symbol = {
+	Prototype = Action,
+	Name = "Symbol",
+	Procedure = DFA_ATTACH,
+	Length = 1,
+	Delay = 5,
+	NextAction = "Symbol",
+	StartCall = "RecheckSymbol",
+},
+
 };

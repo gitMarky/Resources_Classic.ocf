@@ -92,4 +92,10 @@ Connect = {
 	PhaseCall = "Sparkle",
 },
 
+Remove = {
+	Prototype = Action,
+	Name = "Remove",
+	StartCall = "Remove",
+},
+
 };

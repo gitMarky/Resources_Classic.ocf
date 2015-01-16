@@ -22,4 +22,17 @@ Stop = {
 	StartCall = "Processing",
 },
 
+Drill = {
+	Prototype = Action,
+	Name = "Drill",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Drill",
+	StartCall = "Drilling",
+	Sound = "Drill",
+	DigFree = 1,
+},
+
 };

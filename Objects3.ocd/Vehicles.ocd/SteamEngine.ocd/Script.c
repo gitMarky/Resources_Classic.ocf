@@ -325,4 +325,20 @@ Wait = {
 	NextAction = "Walk",
 },
 
+Jump = {
+	Prototype = Action,
+	Name = "Jump",
+	Procedure = DFA_FLIGHT,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 10,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 32,
+	Hgt = 28,
+	NextAction = "Jump",
+	StartCall = "Puff",
+},
+
 };

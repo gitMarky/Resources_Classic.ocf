@@ -136,4 +136,14 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Casting = {
+	Prototype = Action,
+	Name = "Casting",
+	Procedure = DFA_FLOAT,
+	Delay = 15,
+	FacetBase = 1,
+	NextAction = "Casting",
+	StartCall = "CastMeteor",
+},
+
 };

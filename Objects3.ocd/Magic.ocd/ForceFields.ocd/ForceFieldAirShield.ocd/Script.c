@@ -99,4 +99,12 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Field = {
+	Prototype = Action,
+	Name = "Field",
+	Procedure = DFA_FLOAT,
+	FacetBase = 1,
+	Sound = "Energy",
+},
+
 };

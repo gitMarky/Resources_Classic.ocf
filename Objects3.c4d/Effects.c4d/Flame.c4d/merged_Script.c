@@ -55,4 +55,14 @@ local NoBurnDecay = 1;
 // actions
 
 local ActMap = {
+Burn = {
+	Prototype = Action,
+	Name = "Burn",
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "Burn",
+	EndCall = "BurnProcess",
+	Sound = "Fire",
+},
+
 };

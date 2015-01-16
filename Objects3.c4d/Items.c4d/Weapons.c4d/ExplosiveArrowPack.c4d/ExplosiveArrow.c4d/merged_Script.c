@@ -50,4 +50,14 @@ local Collectible = 1;
 // actions
 
 local ActMap = {
+Shot = {
+	Prototype = Action,
+	Name = "Shot",
+	Length = 1,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Hold",
+	PhaseCall = "InFlight",
+},
+
 };

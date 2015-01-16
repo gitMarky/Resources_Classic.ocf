@@ -1,2 +1,18 @@
 local ActMap = {
+FlyBase = {
+	Prototype = Action,
+	Name = "FlyBase",
+	Procedure = DFA_ATTACH,
+	Directions = 9,
+	Length = 6,
+	Delay = 3,
+	X = 0,
+	Y = 12,
+	Wdt = 24,
+	Hgt = 12,
+	NextAction = "FlyBase",
+	StartCall = "Flying",
+	AbortCall = "ResetCategory",
+},
+
 };

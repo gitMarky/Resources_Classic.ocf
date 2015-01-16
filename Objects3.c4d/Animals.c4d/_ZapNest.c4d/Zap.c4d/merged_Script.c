@@ -83,4 +83,19 @@ local ContactIncinerate = 1;
 // actions
 
 local ActMap = {
+Fly = {
+	Prototype = Action,
+	Name = "Fly",
+	Procedure = DFA_FLOAT,
+	Length = 6,
+	Delay = 3,
+	X = 0,
+	Y = 0,
+	Wdt = 2,
+	Hgt = 2,
+	NextAction = "Fly",
+	EndCall = "Check",
+	PhaseCall = "Flying",
+},
+
 };

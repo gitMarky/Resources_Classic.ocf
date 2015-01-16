@@ -29,4 +29,16 @@ Wiggle = {
 	NextAction = "Wiggle",
 },
 
+Dry = {
+	Prototype = Action,
+	Name = "Dry",
+	Procedure = DFA_NONE,
+	Delay = 1,
+	X = 0,
+	Y = 20,
+	Wdt = 16,
+	Hgt = 20,
+	NextAction = "Hold",
+},
+
 };

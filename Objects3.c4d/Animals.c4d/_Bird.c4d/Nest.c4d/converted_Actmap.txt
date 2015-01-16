@@ -32,4 +32,19 @@ Bird = {
 	InLiquidAction = "Decay",
 },
 
+Decay = {
+	Prototype = Action,
+	Name = "Decay",
+	Procedure = DFA_NONE,
+	Directions = 1,
+	Length = 5,
+	Delay = 350,
+	X = 0,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 11,
+	NextAction = "Decay",
+	EndCall = "Remove",
+},
+
 };

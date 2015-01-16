@@ -172,4 +172,20 @@ CloseDoor = {
 	StartCall = "SoundCloseDoor",
 },
 
+Burning = {
+	Prototype = Action,
+	Name = "Burning",
+	Length = 8,
+	Delay = 1,
+	X = 0,
+	Y = 68,
+	Wdt = 8,
+	Hgt = 11,
+	OffX = 9,
+	OffY = 35,
+	FacetBase = 1,
+	NextAction = "Burning",
+	StartCall = "Burning",
+},
+
 };

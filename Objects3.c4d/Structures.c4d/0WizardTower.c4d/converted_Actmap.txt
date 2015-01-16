@@ -157,4 +157,20 @@ Research2 = {
 	Sound = "Research",
 },
 
+Research3 = {
+	Prototype = Action,
+	Name = "Research3",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	Length = 5,
+	Delay = 2,
+	X = 40,
+	Y = 0,
+	Wdt = 40,
+	Hgt = 82,
+	NextAction = "Research3",
+	StartCall = "Researching",
+	Sound = "Research",
+},
+
 };

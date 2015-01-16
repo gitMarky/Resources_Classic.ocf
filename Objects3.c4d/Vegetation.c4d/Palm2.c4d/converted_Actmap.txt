@@ -43,4 +43,20 @@ Breeze = {
 	StartCall = "Breeze",
 },
 
+Storm = {
+	Prototype = Action,
+	Name = "Storm",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 20,
+	Delay = 3,
+	X = 0,
+	Y = 65,
+	Wdt = 48,
+	Hgt = 65,
+	FacetBase = 0,
+	NextAction = "Storm",
+	StartCall = "Storm",
+},
+
 };

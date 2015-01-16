@@ -25,4 +25,17 @@ LowerSail = {
 	StartCall = "SoundSailDown",
 },
 
+RaiseSail = {
+	Prototype = Action,
+	Name = "RaiseSail",
+	Length = 10,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 36,
+	Hgt = 44,
+	StartCall = "SoundSailUp",
+	EndCall = "LandOn",
+},
+
 };

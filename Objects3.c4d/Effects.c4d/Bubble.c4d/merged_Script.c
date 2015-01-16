@@ -42,4 +42,21 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Bubble = {
+	Prototype = Action,
+	Name = "Bubble",
+	Procedure = DFA_FLOAT,
+	Length = 40,
+	Delay = 3,
+	X = 0,
+	Y = 0,
+	Wdt = 1,
+	Hgt = 1,
+	OffX = 0,
+	OffY = 0,
+	FacetBase = 0,
+	EndCall = "Remove",
+	PhaseCall = "LiquidCheck",
+},
+
 };

@@ -223,4 +223,15 @@ Advance = {
 	Sound = "Earthquake",
 },
 
+Discharge = {
+	Prototype = Action,
+	Name = "Discharge",
+	Procedure = DFA_NONE,
+	Length = 100,
+	Delay = 2,
+	NextAction = "Discharge",
+	PhaseCall = "CastLava",
+	Sound = "VolcanoCast",
+},
+
 };

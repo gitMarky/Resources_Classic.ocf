@@ -92,4 +92,16 @@ Break = {
 	EndCall = "Destroy",
 },
 
+Nest = {
+	Prototype = Action,
+	Name = "Nest",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 6,
+	Hgt = 6,
+},
+
 };

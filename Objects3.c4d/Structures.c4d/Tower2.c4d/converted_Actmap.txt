@@ -33,4 +33,23 @@ DoorOpen = {
 	EndCall = "CloseEntrance",
 },
 
+CloseDoor = {
+	Prototype = Action,
+	Name = "CloseDoor",
+	Procedure = DFA_NONE,
+	Length = 4,
+	Reverse = 1,
+	Delay = 1,
+	X = 0,
+	Y = 64,
+	Wdt = 10,
+	Hgt = 15,
+	OffX = 17,
+	OffY = 49,
+	FacetBase = 1,
+	NextAction = "Idle",
+	StartCall = "SoundCloseDoor",
+	EndCall = "DoorClosed",
+},
+
 };

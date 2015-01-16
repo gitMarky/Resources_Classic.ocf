@@ -274,4 +274,19 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Warp = {
+	Prototype = Action,
+	Name = "Warp",
+	Procedure = DFA_FLOAT,
+	Length = 16,
+	Delay = 4,
+	X = 0,
+	Y = 0,
+	Wdt = 40,
+	Hgt = 40,
+	FacetBase = 0,
+	NextAction = "Warp",
+	EndCall = "Shrink",
+},
+
 };

@@ -405,4 +405,19 @@ Process = {
 	EndCall = "Processing",
 },
 
+Drink = {
+	Prototype = Action,
+	Name = "Drink",
+	Procedure = DFA_THROW,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 8,
+	Delay = 3,
+	X = 128,
+	Y = 260,
+	Wdt = 16,
+	Hgt = 20,
+	NextAction = "Walk",
+},
+
 };

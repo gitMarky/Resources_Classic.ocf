@@ -13,4 +13,18 @@ Pump = {
 	StartCall = "Pumping",
 },
 
+Wait = {
+	Prototype = Action,
+	Name = "Wait",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 50,
+	X = 0,
+	Y = 0,
+	Wdt = 28,
+	Hgt = 32,
+	NextAction = "Wait",
+	StartCall = "Waiting",
+},
+
 };

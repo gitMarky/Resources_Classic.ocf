@@ -11,4 +11,17 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Wrecked = {
+	Prototype = Action,
+	Name = "Wrecked",
+	Directions = 2,
+	FlipDir = 1,
+	Delay = 10,
+	X = 0,
+	Y = 0,
+	Wdt = 80,
+	Hgt = 40,
+	NextAction = "Wrecked",
+},
+
 };

@@ -254,4 +254,21 @@ DropOff = {
 	Sound = "Fusing",
 },
 
+WaterLand = {
+	Prototype = Action,
+	Name = "WaterLand",
+	Procedure = DFA_NONE,
+	Directions = 9,
+	Length = 6,
+	Delay = 3,
+	X = 36,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 12,
+	OffX = 18,
+	OffY = 20,
+	FacetBase = 1,
+	NextAction = "WaterLand",
+},
+
 };

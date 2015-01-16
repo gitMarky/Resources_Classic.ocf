@@ -55,4 +55,21 @@ Dead = {
 	NextAction = "Decay",
 },
 
+Decay = {
+	Prototype = Action,
+	Name = "Decay",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 1,
+	Delay = 200,
+	X = 0,
+	Y = 22,
+	Wdt = 56,
+	Hgt = 22,
+	NextAction = "Decay",
+	NoOtherAction = 1,
+	EndCall = "Decaying",
+},
+
 };

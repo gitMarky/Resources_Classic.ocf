@@ -185,4 +185,16 @@ Closing = {
 	EndCall = "CheckGrab",
 },
 
+Closed = {
+	Prototype = Action,
+	Name = "Closed",
+	Length = 1,
+	Delay = 35,
+	X = 0,
+	Y = 0,
+	Wdt = 20,
+	Hgt = 24,
+	NextAction = "Closed",
+},
+
 };

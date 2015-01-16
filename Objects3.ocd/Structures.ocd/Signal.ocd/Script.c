@@ -134,4 +134,19 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Signal = {
+	Prototype = Action,
+	Name = "Signal",
+	Procedure = DFA_NONE,
+	Directions = 3,
+	Length = 4,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 50,
+	FacetBase = 0,
+	NextAction = "Signal",
+},
+
 };

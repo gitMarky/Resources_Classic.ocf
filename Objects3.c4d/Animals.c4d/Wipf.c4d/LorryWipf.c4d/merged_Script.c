@@ -74,4 +74,17 @@ Wipf2 = {
 	NextAction = "Wipf2",
 },
 
+Wipf3 = {
+	Prototype = Action,
+	Name = "Wipf3",
+	Procedure = DFA_ATTACH,
+	Length = 5,
+	Delay = 3,
+	X = 0,
+	Y = 56,
+	Wdt = 24,
+	Hgt = 28,
+	NextAction = "Wipf3",
+},
+
 };

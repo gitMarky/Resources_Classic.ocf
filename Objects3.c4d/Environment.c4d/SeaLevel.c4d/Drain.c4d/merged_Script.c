@@ -26,4 +26,13 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Drain = {
+	Prototype = Action,
+	Name = "Drain",
+	Length = 1,
+	Delay = 5,
+	NextAction = "Drain",
+	StartCall = "Draining",
+},
+
 };

@@ -46,4 +46,20 @@ Still = {
 	StartCall = "Still",
 },
 
+Breeze = {
+	Prototype = Action,
+	Name = "Breeze",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 40,
+	Delay = 2,
+	X = 0,
+	Y = 0,
+	Wdt = 52,
+	Hgt = 75,
+	FacetBase = 0,
+	NextAction = "Breeze",
+	StartCall = "Breeze",
+},
+
 };

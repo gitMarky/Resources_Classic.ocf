@@ -751,4 +751,14 @@ Ride = {
 	Sound = "Elevator",
 },
 
+Wait = {
+	Prototype = Action,
+	Name = "Wait",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 100,
+	NextAction = "Wait",
+	EndCall = "Waiting",
+},
+
 };

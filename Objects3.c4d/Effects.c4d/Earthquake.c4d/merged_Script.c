@@ -70,4 +70,15 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Quake = {
+	Prototype = Action,
+	Name = "Quake",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 3,
+	NextAction = "Quake",
+	EndCall = "ShakeEarth",
+	Sound = "Earthquake",
+},
+
 };

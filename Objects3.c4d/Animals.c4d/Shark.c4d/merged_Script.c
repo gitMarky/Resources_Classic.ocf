@@ -372,4 +372,20 @@ Walk = {
 	InLiquidAction = "Swim",
 },
 
+Jump = {
+	Prototype = Action,
+	Name = "Jump",
+	Procedure = DFA_FLIGHT,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 20,
+	Delay = 5,
+	X = 0,
+	Y = 0,
+	Wdt = 56,
+	Hgt = 22,
+	NextAction = "Swim",
+	InLiquidAction = "Swim",
+},
+
 };

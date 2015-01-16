@@ -96,4 +96,22 @@ Look = {
 	InLiquidAction = "Swim",
 },
 
+LookAway = {
+	Prototype = Action,
+	Name = "LookAway",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 12,
+	Reverse = 1,
+	Delay = 1,
+	Attach = 8,
+	X = 0,
+	Y = 102,
+	Wdt = 48,
+	Hgt = 34,
+	NextAction = "Walk",
+	InLiquidAction = "Swim",
+},
+
 };

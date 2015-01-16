@@ -48,4 +48,20 @@ Grapple = {
 	Sound = "Submarine",
 },
 
+Turn = {
+	Prototype = Action,
+	Name = "Turn",
+	Procedure = DFA_FLOAT,
+	Directions = 2,
+	Length = 24,
+	Delay = 1,
+	X = 0,
+	Y = 80,
+	Wdt = 80,
+	Hgt = 40,
+	NextAction = "Swim",
+	EndCall = "TurnEnd",
+	Sound = "Submarine",
+},
+
 };

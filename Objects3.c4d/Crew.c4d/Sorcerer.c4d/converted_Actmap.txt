@@ -515,4 +515,20 @@ Drink = {
 	NextAction = "Walk",
 },
 
+AimMagic = {
+	Prototype = Action,
+	Name = "AimMagic",
+	Procedure = DFA_THROW,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 10,
+	Delay = 0,
+	X = 0,
+	Y = 328,
+	Wdt = 24,
+	Hgt = 20,
+	OffX = -4,
+	NextAction = "AimMagic",
+},
+
 };

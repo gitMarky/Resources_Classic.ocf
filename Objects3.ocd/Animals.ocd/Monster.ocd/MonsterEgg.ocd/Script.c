@@ -51,4 +51,16 @@ local Collectible = 1;
 // actions
 
 local ActMap = {
+Break = {
+	Prototype = Action,
+	Name = "Break",
+	Length = 7,
+	Delay = 2,
+	X = 48,
+	Y = 0,
+	Wdt = 6,
+	Hgt = 6,
+	EndCall = "Destroy",
+},
+
 };

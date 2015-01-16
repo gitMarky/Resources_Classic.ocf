@@ -400,4 +400,15 @@ Shot = {
 	PhaseCall = "InFlight",
 },
 
+Stick = {
+	Prototype = Action,
+	Name = "Stick",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Hold",
+	PhaseCall = "Sticking",
+},
+
 };

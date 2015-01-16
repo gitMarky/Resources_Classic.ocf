@@ -30,4 +30,21 @@ Charge = {
 	PhaseCall = "Charging",
 },
 
+Fire = {
+	Prototype = Action,
+	Name = "Fire",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 7,
+	Reverse = 1,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 24,
+	Hgt = 25,
+	NextAction = "Charge",
+	StartCall = "FireSound",
+	EndCall = "Projectile",
+},
+
 };

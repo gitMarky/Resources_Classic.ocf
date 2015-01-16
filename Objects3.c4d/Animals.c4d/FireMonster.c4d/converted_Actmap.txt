@@ -114,4 +114,20 @@ LookAway = {
 	InLiquidAction = "Swim",
 },
 
+Flame = {
+	Prototype = Action,
+	Name = "Flame",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Delay = 2,
+	X = 768,
+	Y = 0,
+	Wdt = 48,
+	Hgt = 34,
+	NextAction = "Flame",
+	StartCall = "Flaming",
+	InLiquidAction = "Swim",
+},
+
 };

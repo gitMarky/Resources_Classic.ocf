@@ -193,4 +193,18 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Ready = {
+	Prototype = Action,
+	Name = "Ready",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 19,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 32,
+	Hgt = 28,
+	NextAction = "Hold",
+},
+
 };

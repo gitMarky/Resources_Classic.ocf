@@ -130,4 +130,21 @@ DigFree = {
 	DigFree = 9,
 },
 
+Eat = {
+	Prototype = Action,
+	Name = "Eat",
+	Procedure = DFA_NONE,
+	Directions = 2,
+	FlipDir = 1,
+	Length = 6,
+	Delay = 4,
+	X = 0,
+	Y = 54,
+	Wdt = 24,
+	Hgt = 18,
+	NextAction = "Walk",
+	EndCall = "Eating",
+	InLiquidAction = "Swim",
+},
+
 };

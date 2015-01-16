@@ -9,4 +9,14 @@ Init = {
 	EndCall = "PostInit",
 },
 
+Wait4End = {
+	Prototype = Action,
+	Name = "Wait4End",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 30,
+	NextAction = "Idle",
+	EndCall = "RoundOver",
+},
+
 };

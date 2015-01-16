@@ -48,4 +48,12 @@ InWater = {
 	StartCall = "Floating",
 },
 
+JustLanded = {
+	Prototype = Action,
+	Name = "JustLanded",
+	Delay = 150,
+	FacetBase = 1,
+	NextAction = "OnLand",
+},
+
 };

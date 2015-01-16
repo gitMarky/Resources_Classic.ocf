@@ -91,4 +91,22 @@ Dead = {
 	ObjectDisabled = 1,
 },
 
+Eat = {
+	Prototype = Action,
+	Name = "Eat",
+	Directions = 2,
+	FlipDir = 1,
+	Length = 11,
+	Delay = 2,
+	X = 140,
+	Y = 20,
+	Wdt = 28,
+	Hgt = 10,
+	OffX = 0,
+	OffY = 3,
+	NextAction = "Walk",
+	EndCall = "Eating",
+	InLiquidAction = "Swim",
+},
+
 };

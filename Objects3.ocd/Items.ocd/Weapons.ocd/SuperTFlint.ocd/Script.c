@@ -34,4 +34,11 @@ Activated = {
 	Sound = "Fusing",
 },
 
+TimeOver = {
+	Prototype = Action,
+	Name = "TimeOver",
+	FacetBase = 1,
+	StartCall = "BlowUp",
+},
+
 };

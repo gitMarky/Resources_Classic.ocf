@@ -13,4 +13,17 @@ Appear = {
 	PhaseCall = "Appearing",
 },
 
+Shine = {
+	Prototype = Action,
+	Name = "Shine",
+	Length = 10,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 3,
+	Hgt = 3,
+	FacetBase = 0,
+	NextAction = "Hold",
+},
+
 };

@@ -38,4 +38,17 @@ local Collectible = 1;
 // actions
 
 local ActMap = {
+Evaporate = {
+	Prototype = Action,
+	Name = "Evaporate",
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 10,
+	Hgt = 10,
+	NextAction = "Evaporate",
+	StartCall = "SmokeTrail",
+	InLiquidAction = "Hit",
+},
+
 };

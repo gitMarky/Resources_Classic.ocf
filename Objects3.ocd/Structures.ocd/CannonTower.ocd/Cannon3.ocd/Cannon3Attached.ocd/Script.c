@@ -108,4 +108,14 @@ Attaching = {
 	NextAction = "Attaching",
 },
 
+Rotating = {
+	Prototype = Action,
+	Name = "Rotating",
+	Procedure = DFA_ATTACH,
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "Rotating",
+	Sound = "CannonRotation",
+},
+
 };

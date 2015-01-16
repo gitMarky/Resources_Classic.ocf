@@ -31,4 +31,16 @@ local Collectible = 1;
 // actions
 
 local ActMap = {
+BBON = {
+	Prototype = Action,
+	Name = "BBON",
+	Length = 1,
+	Delay = 0,
+	X = 0,
+	Y = 0,
+	Wdt = 10,
+	Hgt = 6,
+	OffX = -1,
+},
+
 };

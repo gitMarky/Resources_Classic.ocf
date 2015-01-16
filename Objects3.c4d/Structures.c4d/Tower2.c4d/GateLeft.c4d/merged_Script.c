@@ -52,4 +52,14 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+GateLeft = {
+	Prototype = Action,
+	Name = "GateLeft",
+	Procedure = DFA_FLOAT,
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "GateLeft",
+	StartCall = "CheckRange",
+},
+
 };

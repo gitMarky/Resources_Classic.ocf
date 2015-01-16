@@ -462,4 +462,14 @@ Open = {
 	NextAction = "Hold",
 },
 
+Aborting = {
+	Prototype = Action,
+	Name = "Aborting",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 1,
+	FacetBase = 1,
+	EndCall = "Abort",
+},
+
 };

@@ -74,4 +74,14 @@ Left = {
 	NextAction = "Left",
 },
 
+Right = {
+	Prototype = Action,
+	Name = "Right",
+	Procedure = DFA_NONE,
+	Length = 1,
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "Right",
+},
+
 };

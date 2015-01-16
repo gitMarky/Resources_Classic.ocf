@@ -8,4 +8,14 @@ Advance = {
 	StartCall = "Advance",
 },
 
+Connect = {
+	Prototype = Action,
+	Name = "Connect",
+	Procedure = DFA_NONE,
+	Length = 30,
+	Delay = 1,
+	EndCall = "Remove",
+	PhaseCall = "Sparkle",
+},
+
 };

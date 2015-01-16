@@ -51,4 +51,22 @@ CloseDoor = {
 	StartCall = "SoundCloseDoor",
 },
 
+Saw = {
+	Prototype = Action,
+	Name = "Saw",
+	Procedure = DFA_NONE,
+	Length = 10,
+	Delay = 1,
+	X = 0,
+	Y = 78,
+	Wdt = 26,
+	Hgt = 9,
+	OffX = 23,
+	OffY = 11,
+	FacetBase = 1,
+	NextAction = "Saw",
+	StartCall = "Sawing",
+	PhaseCall = "SawingDust",
+},
+
 };

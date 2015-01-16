@@ -33,4 +33,14 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Travel = {
+	Prototype = Action,
+	Name = "Travel",
+	Procedure = DFA_NONE,
+	Delay = 1,
+	FacetBase = 1,
+	NextAction = "Travel",
+	StartCall = "Travel",
+},
+
 };

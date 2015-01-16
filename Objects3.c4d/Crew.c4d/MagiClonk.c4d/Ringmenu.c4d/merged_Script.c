@@ -330,4 +330,14 @@ Grow = {
 	PhaseCall = "Growing",
 },
 
+Closing = {
+	Prototype = Action,
+	Name = "Closing",
+	Procedure = DFA_FLOAT,
+	Length = 1,
+	Delay = 1,
+	FacetBase = 1,
+	EndCall = "Close",
+},
+
 };

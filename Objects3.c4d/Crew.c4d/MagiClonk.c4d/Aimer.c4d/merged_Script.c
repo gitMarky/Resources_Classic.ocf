@@ -315,4 +315,19 @@ Aborting = {
 	EndCall = "Abort",
 },
 
+Arrow = {
+	Prototype = Action,
+	Name = "Arrow",
+	Procedure = DFA_ATTACH,
+	Length = 2,
+	Delay = 1,
+	X = 0,
+	Y = 0,
+	Wdt = 16,
+	Hgt = 16,
+	OffX = -8,
+	OffY = -8,
+	NextAction = "Arrow",
+},
+
 };

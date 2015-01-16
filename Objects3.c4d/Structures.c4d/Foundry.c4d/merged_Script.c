@@ -298,4 +298,21 @@ CloseDoor = {
 	EndCall = "DoorClosed",
 },
 
+Burning = {
+	Prototype = Action,
+	Name = "Burning",
+	Length = 8,
+	Delay = 1,
+	X = 0,
+	Y = 67,
+	Wdt = 8,
+	Hgt = 10,
+	OffX = 48,
+	OffY = 34,
+	FacetBase = 1,
+	NextAction = "Burning",
+	StartCall = "Burning",
+	Sound = "Fire",
+},
+
 };

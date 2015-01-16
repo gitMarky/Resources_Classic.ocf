@@ -80,4 +80,16 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+WannaRemove = {
+	Prototype = Action,
+	Name = "WannaRemove",
+	Procedure = DFA_ATTACH,
+	Directions = 2,
+	Length = 1,
+	Delay = 10,
+	FacetBase = 0,
+	NextAction = "WannaRemove",
+	EndCall = "WannaRemove",
+},
+
 };

@@ -45,4 +45,14 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Connect = {
+	Prototype = Action,
+	Name = "Connect",
+	Procedure = DFA_CONNECT,
+	Delay = 10,
+	FacetBase = 1,
+	NextAction = "Connect",
+	StartCall = "Transfer",
+},
+
 };

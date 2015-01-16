@@ -234,4 +234,22 @@ CloseDoor = {
 	EndCall = "DoorClosed",
 },
 
+Build = {
+	Prototype = Action,
+	Name = "Build",
+	Procedure = DFA_BUILD,
+	Length = 20,
+	Delay = 4,
+	X = 0,
+	Y = 69,
+	Wdt = 8,
+	Hgt = 11,
+	OffX = 11,
+	OffY = 24,
+	FacetBase = 1,
+	NextAction = "Build",
+	PhaseCall = "Smoking",
+	Sound = "Gear",
+},
+
 };

@@ -55,4 +55,15 @@ local Description = "$Description$";
 // actions
 
 local ActMap = {
+Process = {
+	Prototype = Action,
+	Name = "Process",
+	Procedure = DFA_FLOAT,
+	Length = 15,
+	Delay = 2,
+	NextAction = "Process",
+	StartCall = "Movement",
+	PhaseCall = "Precipitation",
+},
+
 };

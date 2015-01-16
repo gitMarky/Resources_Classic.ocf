@@ -82,4 +82,14 @@ local BurnTo = BRDB;
 // actions
 
 local ActMap = {
+Locked = {
+	Prototype = Action,
+	Name = "Locked",
+	Length = 1,
+	X = 72,
+	Y = 0,
+	Wdt = 72,
+	Hgt = 11,
+},
+
 };

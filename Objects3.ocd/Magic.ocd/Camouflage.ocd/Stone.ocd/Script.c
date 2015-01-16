@@ -137,4 +137,13 @@ local Collectible = 1;
 // actions
 
 local ActMap = {
+Wait4Ending = {
+	Prototype = Action,
+	Name = "Wait4Ending",
+	Procedure = DFA_NONE,
+	Delay = 1000,
+	FacetBase = 1,
+	EndCall = "End",
+},
+
 };

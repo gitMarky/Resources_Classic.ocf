@@ -80,4 +80,18 @@ local BurnTo = ELVB;
 // actions
 
 local ActMap = {
+LiftCase = {
+	Prototype = Action,
+	Name = "LiftCase",
+	Procedure = DFA_NONE,
+	X = 58,
+	Y = 5,
+	Wdt = 2,
+	Hgt = 4,
+	OffX = 13,
+	FacetBase = 1,
+	FacetTargetStretch = 1,
+	NextAction = "LiftCase",
+},
+
 };

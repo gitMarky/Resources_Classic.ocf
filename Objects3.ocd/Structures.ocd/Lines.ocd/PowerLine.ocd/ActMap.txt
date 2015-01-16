@@ -1,8 +1,0 @@
-[Action]
-Name=Connect
-Procedure=CONNECT
-Delay=10
-FacetBase=1
-NextAction=Connect
-StartCall=Transfer
- 
