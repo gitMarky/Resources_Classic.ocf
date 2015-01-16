@@ -1,0 +1,3 @@
+Name=Structures
+Description=Base buildings and factories.
+

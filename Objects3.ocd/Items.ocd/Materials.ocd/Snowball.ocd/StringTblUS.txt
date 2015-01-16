@@ -1,0 +1,3 @@
+Name=Snowball
+Description=A light throwing weapon shaped from snow.
+

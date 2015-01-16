@@ -1,0 +1,3 @@
+Name=Steinschlag
+Description=Alles Gute kommt von oben... Je öfter dieses Objekt aktiviert ist, umso mehr Felsbrocken fallen vom Himmel.
+

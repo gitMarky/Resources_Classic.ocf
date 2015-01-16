@@ -1,0 +1,3 @@
+Name=Burned palm
+Description=Chop down and cut to wood.
+

@@ -1,0 +1,3 @@
+Name=Bone
+Description=Macabre decoration.
+

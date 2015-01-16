@@ -1,0 +1,3 @@
+Name=Kohle
+Description=Leistungsfähiges Brennmaterial.
+

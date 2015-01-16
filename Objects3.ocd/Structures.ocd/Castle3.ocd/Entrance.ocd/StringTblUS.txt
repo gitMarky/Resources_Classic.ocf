@@ -1,0 +1,3 @@
+Name=Staircase entrance
+Description=Allows descent from a platform.
+

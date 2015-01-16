@@ -1,0 +1,3 @@
+Name=Team home base material
+Description=Allied players share common base material.
+

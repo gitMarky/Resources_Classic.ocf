@@ -1,0 +1,3 @@
+Name=Abgebranntes Sägewerk
+Description=Kann auf ebenem Untergrund wieder aufgebaut werden.
+

@@ -1,0 +1,4 @@
+Name=Glühpartikel
+Description=Verdeckt den Vulkankrater
+
+

@@ -1,0 +1,3 @@
+Name=Chunk of ice
+Description=A piece of frozen water.
+

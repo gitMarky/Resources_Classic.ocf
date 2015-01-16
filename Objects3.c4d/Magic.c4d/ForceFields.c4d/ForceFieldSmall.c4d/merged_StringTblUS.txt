@@ -1,0 +1,3 @@
+Name=Small force field
+Description=Protects a single clonk or a small group of clonks.
+

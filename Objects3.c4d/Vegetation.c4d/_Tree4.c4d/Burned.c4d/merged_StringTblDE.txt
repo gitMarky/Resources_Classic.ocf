@@ -1,0 +1,3 @@
+Name=Verbrannter Nadelbaum
+Description=Kann gefällt und zu Holz zersägt werden.
+

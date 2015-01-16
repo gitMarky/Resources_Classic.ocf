@@ -1,0 +1,3 @@
+Name=Farbspeicher
+Description=Viel benutzter Nichtsnutz.
+

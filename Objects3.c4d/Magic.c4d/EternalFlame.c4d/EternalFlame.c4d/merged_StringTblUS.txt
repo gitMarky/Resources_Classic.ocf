@@ -1,0 +1,3 @@
+Name=Eternal flame
+Description=Burns forever.
+

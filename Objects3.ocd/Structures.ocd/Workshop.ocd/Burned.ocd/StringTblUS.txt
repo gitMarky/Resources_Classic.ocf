@@ -1,0 +1,3 @@
+Name=Workshop ruin
+Description=Can be rebuilt on level ground.
+

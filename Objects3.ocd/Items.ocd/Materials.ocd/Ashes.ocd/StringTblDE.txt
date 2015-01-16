@@ -1,0 +1,3 @@
+Name=Ascheklumpen
+Description=Um transportfähige Ascheklumpen auszugraben, während des Grabens erneut einmal auf 'Graben' klicken.
+

@@ -1,0 +1,3 @@
+Name=Fahrzeuge
+Description=Transportgerät und schwere Waffen.
+

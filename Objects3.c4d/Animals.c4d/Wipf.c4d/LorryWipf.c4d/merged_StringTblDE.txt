@@ -1,0 +1,3 @@
+Name=Wipf
+Description=Knuffiges Lebewesen in einer Lore.
+

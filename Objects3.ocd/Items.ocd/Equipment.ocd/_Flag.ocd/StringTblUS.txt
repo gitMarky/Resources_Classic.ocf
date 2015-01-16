@@ -1,0 +1,3 @@
+Name=Flag
+Description=The flag marks your home base in which you can buy or sell material and reload energy.
+

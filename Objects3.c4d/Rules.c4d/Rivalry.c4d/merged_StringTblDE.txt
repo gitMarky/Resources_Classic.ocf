@@ -1,0 +1,3 @@
+Name=Wettstreit
+Description=Die Spieler, die als erste alle Spielziele erfüllen, gewinnen. Alle anderen verlieren.
+

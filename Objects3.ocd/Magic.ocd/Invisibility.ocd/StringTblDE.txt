@@ -1,0 +1,3 @@
+Name=Unsichtbarkeit
+Description=Macht den Zauberer unsichtbar.
+

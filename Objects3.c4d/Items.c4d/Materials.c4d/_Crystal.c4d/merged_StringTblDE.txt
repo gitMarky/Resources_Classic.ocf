@@ -1,0 +1,3 @@
+Name=Kristall
+Description=Angereichert mit Zauberenergie.
+

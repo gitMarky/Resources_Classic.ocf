@@ -1,0 +1,3 @@
+Name=Burned coniferous tree
+Description=Chop down and cut to wood.
+

@@ -1,0 +1,3 @@
+Name=Neuer Zauber
+Description=Erforscht einen neuen Zauberspruch, sofern noch unbekannte Zauber vorhanden sind.
+

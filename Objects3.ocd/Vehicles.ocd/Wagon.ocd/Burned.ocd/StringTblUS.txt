@@ -1,0 +1,3 @@
+Name=Burned wagon
+Description=Train robbers strike again.
+

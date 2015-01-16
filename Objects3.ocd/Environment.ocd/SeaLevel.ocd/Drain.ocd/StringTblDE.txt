@@ -1,0 +1,3 @@
+Name=Abfluß
+Description=Kann in der Landschaft plaziert werden und entfernt Flüssigkeiten.
+

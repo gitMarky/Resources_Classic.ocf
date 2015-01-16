@@ -1,0 +1,3 @@
+Name=Sulphur
+Description=Base substance for explosives.
+

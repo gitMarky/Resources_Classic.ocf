@@ -1,0 +1,3 @@
+Name=Windrad
+Description=Liefert Energie für andere Gebäude und Maschinen.
+

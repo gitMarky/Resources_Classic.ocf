@@ -1,0 +1,3 @@
+Name=Invisibility
+Description=A mighty spell that renders the magician invisible.
+

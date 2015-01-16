@@ -1,0 +1,2 @@
+Description=Magic spells which can be cast from a magic tower or by a qualified clonk.
+

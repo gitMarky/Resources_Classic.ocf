@@ -1,0 +1,3 @@
+Name=Magische Brücke
+Description=Erzeugt eine zeitlich begrenzte Brücke.
+

@@ -1,0 +1,3 @@
+Name=Glowparticle
+Description=Hides the crater of the volcano.
+

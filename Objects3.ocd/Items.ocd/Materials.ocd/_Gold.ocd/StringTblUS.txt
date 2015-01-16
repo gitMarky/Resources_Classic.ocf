@@ -1,0 +1,3 @@
+Name=Chunk of gold
+Description=Miner's desire.
+

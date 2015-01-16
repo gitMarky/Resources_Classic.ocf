@@ -1,0 +1,3 @@
+Name=Sprengpfeil
+Description=Trägt einen kleinen Sprengsatz.
+

@@ -1,0 +1,3 @@
+Name=Luftschutzkraftfeld
+Description=Zum Schutz einer Siedlung.
+

@@ -1,0 +1,3 @@
+Name=Flame arrow
+Description=Useful to set fires at long distance.
+

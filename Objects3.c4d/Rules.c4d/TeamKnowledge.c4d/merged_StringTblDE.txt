@@ -1,0 +1,3 @@
+Name=Gemeinschaftsbaupläne
+Description=Verbündete Spieler teilen sich ihre Baupläne.
+

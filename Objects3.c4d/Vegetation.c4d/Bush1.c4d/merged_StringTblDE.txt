@@ -1,0 +1,3 @@
+Name=Busch
+Description=Kann gefällt und zu Holz zersägt werden.
+

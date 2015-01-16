@@ -1,0 +1,3 @@
+Name=Capture The Flag
+Description=Players are eliminated by loss of their flags (i.e. through selling).
+

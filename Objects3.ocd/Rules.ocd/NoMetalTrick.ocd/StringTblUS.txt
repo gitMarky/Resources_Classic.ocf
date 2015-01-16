@@ -1,0 +1,3 @@
+Name=No metal in front of buildings
+Description=Metal bridges can't be built in front of enemy buildings.
+

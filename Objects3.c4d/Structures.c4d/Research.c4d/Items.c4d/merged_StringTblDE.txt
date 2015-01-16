@@ -1,0 +1,3 @@
+Name=Gegenstände
+Description=Werkzeuge und Waffen.
+

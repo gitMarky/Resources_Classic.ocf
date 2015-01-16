@@ -1,0 +1,3 @@
+Name=Team knowledge
+Description=Allied players share their construction plans.
+

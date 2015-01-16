@@ -1,0 +1,3 @@
+Name=Flagge abnehmbar
+Description=Die Flagge kann von Gebäuden abgenommen werden.
+

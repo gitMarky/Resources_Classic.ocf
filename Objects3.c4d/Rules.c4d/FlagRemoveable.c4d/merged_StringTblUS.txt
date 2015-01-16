@@ -1,0 +1,3 @@
+Name=Flag removeable
+Description=The flag can be removed from buildings.
+

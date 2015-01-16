@@ -1,0 +1,3 @@
+Name=Energiebedarf
+Description=Energieverbraucher wie der Fahrstuhl müssen mit Leitungsbausätzen an einen Energieversorger wie das Windrad angeschlossen werden.
+

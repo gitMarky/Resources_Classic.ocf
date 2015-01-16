@@ -1,0 +1,3 @@
+Name=Schwefel
+Description=Grundstoff für vielerlei Sprengstoffe.
+

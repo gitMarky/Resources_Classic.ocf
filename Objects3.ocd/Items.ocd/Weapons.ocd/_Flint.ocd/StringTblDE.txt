@@ -1,0 +1,3 @@
+Name=Feuerstein
+Description=Explodiert durch Erschütterung.
+

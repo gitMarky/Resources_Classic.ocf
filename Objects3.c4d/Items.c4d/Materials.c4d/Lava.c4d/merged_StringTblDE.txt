@@ -1,0 +1,3 @@
+Name=Lavaklumpen
+Description=Emporgeschleudert aus dem Erdinneren.
+

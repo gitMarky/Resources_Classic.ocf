@@ -1,0 +1,3 @@
+Name=Chunk of ore
+Description=Needed to create metal in a foundry.
+

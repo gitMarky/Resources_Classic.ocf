@@ -1,0 +1,3 @@
+Name=Buildings can snow in
+Description=Buildings won't clear snow in front of them and thus can snow in.
+

@@ -1,0 +1,3 @@
+Name=Feuermonsterei
+Description=Auch Feuermonster legen Eier.
+

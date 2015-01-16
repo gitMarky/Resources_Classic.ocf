@@ -1,0 +1,3 @@
+Name=Einsammelbare Tiere
+Description=Wipfe, Fische und Schlangen können von Clonks und in Loren eingesammelt werden.
+

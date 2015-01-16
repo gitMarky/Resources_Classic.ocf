@@ -1,0 +1,3 @@
+Name=Ewige Flamme
+Description=Ewiger Vernichter von Materialien.
+

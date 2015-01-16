@@ -1,0 +1,3 @@
+Name=Verbrannter Fahrstuhl
+Description=Kann auf ebenem Untergrund wieder aufgebaut werden.
+

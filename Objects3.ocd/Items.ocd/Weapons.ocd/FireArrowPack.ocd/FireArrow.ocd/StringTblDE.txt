@@ -1,0 +1,3 @@
+Name=Brandpfeil
+Description=Um in größerer Entfernung Feuer zu legen oder leicht entzündliche Fluggeräte vom Himmel zu holen.
+

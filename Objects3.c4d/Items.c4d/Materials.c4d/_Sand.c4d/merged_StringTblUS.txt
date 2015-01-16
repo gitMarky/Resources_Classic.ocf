@@ -1,0 +1,3 @@
+Name=Sand
+Description=Hit 'dig' again while digging to create chunks of sand that can be picked up.
+

@@ -1,0 +1,3 @@
+Name=Verbranntes Segelboot
+Description=Eine Seefahrt, die kann lustig sein...
+

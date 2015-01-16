@@ -1,0 +1,3 @@
+Name=Flamme
+Description=Vernichter von Materialien.
+

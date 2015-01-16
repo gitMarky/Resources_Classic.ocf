@@ -1,0 +1,3 @@
+Name=Gemeinschaftsbasismaterial
+Description=Befreundete Spieler teilen sich gemeinsames Basismaterial.
+

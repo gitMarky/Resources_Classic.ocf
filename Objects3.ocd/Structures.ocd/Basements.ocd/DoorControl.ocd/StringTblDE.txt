@@ -1,0 +1,3 @@
+Name=Eingangssteuerung
+Description=Dieses Objekt stellt die Grundfunktionalität für Gebäude mit Tür zur Verfügung.
+

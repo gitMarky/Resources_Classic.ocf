@@ -1,0 +1,3 @@
+Name=Verbrannter Zauberturm
+Description=Hat der alte Hexenmeister sich doch einmal wegbegeben...
+

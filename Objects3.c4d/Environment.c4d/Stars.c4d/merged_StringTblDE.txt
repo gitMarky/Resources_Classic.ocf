@@ -1,0 +1,3 @@
+Name=Sternenhimmel
+Description=Celestiale Schönheit bei Nacht.
+

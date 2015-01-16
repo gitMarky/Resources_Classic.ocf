@@ -1,0 +1,3 @@
+Name=Abgebrannte Werkstatt
+Description=Kann auf ebenem Untergrund wieder aufgebaut werden.
+

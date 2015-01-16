@@ -1,0 +1,3 @@
+Name=Forschung im Zauberturm
+Description=Im Zauberturm können Zaubersprüche erforscht werden.
+

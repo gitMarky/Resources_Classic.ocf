@@ -1,0 +1,3 @@
+Name=Research at Wizardtower
+Description=You can research new spells in a wizardtower.
+

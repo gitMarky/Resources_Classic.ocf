@@ -1,0 +1,3 @@
+Name=Blendenflecke
+Description=Dieses Objekt fügt Sonnenlicht und Blendeneffekte ins Szenario ein.
+

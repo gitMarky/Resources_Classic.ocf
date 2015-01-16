@@ -1,0 +1,3 @@
+Name=Color buffer
+Description=Dummy object frequently used.
+

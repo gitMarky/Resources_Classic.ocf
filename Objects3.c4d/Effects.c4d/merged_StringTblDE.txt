@@ -1,0 +1,2 @@
+Description=Systemobjekte wie Rauch, Flammen und Explosionen, die in jedem Spiel benötigt werden.
+

@@ -1,0 +1,3 @@
+Name=Glitzernde Materialien
+Description=Lässt Gold, Kristall und Eis glitzern.
+

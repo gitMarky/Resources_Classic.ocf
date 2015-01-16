@@ -1,0 +1,3 @@
+Name=Kein Metall vor Gebäuden
+Description=Es können keine Metallbrücken vor feindlichen Gebäuden gebaut werden.
+

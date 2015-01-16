@@ -1,0 +1,3 @@
+Name=Verbrannter Wachturm
+Description=Kann auf ebenem Untergrund wieder aufgebaut werden.
+

@@ -1,0 +1,3 @@
+Name=Dead monster
+Description=It only wanted to play.
+

@@ -1,0 +1,3 @@
+Name=Force field wall
+Description=Temporary barrier.
+

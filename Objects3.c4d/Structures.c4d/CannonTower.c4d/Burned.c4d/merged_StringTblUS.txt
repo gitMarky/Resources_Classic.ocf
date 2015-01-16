@@ -1,0 +1,3 @@
+Name=Burned cannon tower
+Description=Can be rebuilt on level ground.
+

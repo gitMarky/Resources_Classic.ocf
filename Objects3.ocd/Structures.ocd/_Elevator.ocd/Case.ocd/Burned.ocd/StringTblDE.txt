@@ -1,0 +1,3 @@
+Name=Verbrannter Fahrstuhlkorb
+Description=Fahrstuhl im Brandfall nicht benutzen.
+

@@ -1,0 +1,3 @@
+Name=Artilleriegeschütz
+Description=Das Artilleriegeschütz ist sehr langsam und verbraucht viel Schießpulver, dafür schießt es extrem weit und kann auch Clonks transportieren - was allerdings nochmals viel Schießpulver verbraucht.
+

@@ -1,0 +1,3 @@
+Name=Loss of base
+Description=Players are eliminated when they lose their last base building.
+

@@ -1,0 +1,3 @@
+Name=Statuensplitter
+Description=Bruchteil vergangener güldener Kulturen.
+

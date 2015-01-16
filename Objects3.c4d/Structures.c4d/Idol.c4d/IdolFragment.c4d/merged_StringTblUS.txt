@@ -1,0 +1,3 @@
+Name=Statue fragment
+Description=Fraction of past civilizations.
+
