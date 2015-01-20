@@ -1,0 +1,2 @@
+Animals, vegetation, etc. should have properties instead of function calls:
+ReproductionRate, etc.
