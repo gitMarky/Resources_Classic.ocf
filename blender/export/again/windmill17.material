@@ -14,15 +14,15 @@ material _missing_material_
     }
 }
 
-// WindmillClassic genrated by blender2ogre 0.6.0
+// Classic_Wooden_Hut genrated by blender2ogre 0.6.0
 
-material WindmillClassic 
+material Classic_Wooden_Hut 
 {
     receive_shadows on 
 
     technique
     {
-        pass WindmillClassic
+        pass Classic_Wooden_Hut
         {
             ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
             diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
@@ -48,7 +48,7 @@ material WindmillClassic
 
             texture_unit 
             {
-                texture lorry.jpg
+                texture hut.jpg
                 tex_address_mode wrap
                 scale 1.0 1.0
                 colour_op modulate
