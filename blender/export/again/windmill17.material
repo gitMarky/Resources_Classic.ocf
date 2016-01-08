@@ -14,15 +14,15 @@ material _missing_material_
     }
 }
 
-// stonehut genrated by blender2ogre 0.6.0
+// ClassicLorryMat genrated by blender2ogre 0.6.0
 
-material stonehut 
+material ClassicLorryMat 
 {
     receive_shadows on 
 
     technique
     {
-        pass stonehut
+        pass ClassicLorryMat
         {
             ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
             diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
@@ -48,7 +48,14 @@ material stonehut
 
             texture_unit 
             {
-                texture stonehut.jpg
+                texture lorry.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                colour_op modulate
+            }
+            texture_unit 
+            {
+                texture lorry.jpg
                 tex_address_mode wrap
                 scale 1.0 1.0
                 colour_op modulate
