@@ -14,20 +14,20 @@ material _missing_material_
     }
 }
 
-// WizardTower genrated by blender2ogre 0.6.0
+// stonehut genrated by blender2ogre 0.6.0
 
-material WizardTower 
+material stonehut 
 {
     receive_shadows on 
 
     technique
     {
-        pass WizardTower
+        pass stonehut
         {
-            ambient 0.6399999856948853 0.6399999856948853 0.6399999856948853 0.0
-            diffuse 0.5119999961853026 0.5119999961853026 0.5119999961853026 0.0
-            specular 0.5 0.5 0.5 0.0 12.0
-            emissive 0.0 0.0 0.0 0.0
+            ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+            diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.0 0.0 0.0 1.0
 
             alpha_to_coverage off
             colour_write on
@@ -48,10 +48,10 @@ material WizardTower
 
             texture_unit 
             {
-                texture diffuse.png
+                texture stonehut.jpg
                 tex_address_mode wrap
                 scale 1.0 1.0
-                colour_op alpha_blend
+                colour_op modulate
             }
         }
     }
