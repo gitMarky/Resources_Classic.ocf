@@ -1,33 +1,24 @@
-06:45:17: Creating resource group General
-06:45:17: Creating resource group Internal
-06:45:17: Creating resource group Autodetect
-06:45:17: Registering ResourceManager for type Mesh
-06:45:17: Registering ResourceManager for type Material
-06:45:17: Registering ResourceManager for type Skeleton
-06:45:17: XMLSkeletonSerializer: reading XML data from C:\Editing\Clonk\OpenClonk_Projects\Project_Classic\ClassicResources\blender\export\workshop.skeleton.xml...
-06:45:17: XMLSkeletonSerializer: Reading Bones name...
-06:45:17: XMLSkeletonSerializer: Reading Hierarchy data...
-06:45:17: XMLSkeletonSerializer: Reading Bones data...
-06:45:17: XMLSkeletonSerializer: Reading Animations data...
-06:45:17: Animation: nom: OpenDoor et longueur: 0.416667
-06:45:17: Animation: nom: DoorOpen et longueur: 0.416667
-06:45:17: Animation: nom: CloseDoor et longueur: 0.416667
-06:45:17: Animation: nom: Process et longueur: 2.95833
-06:45:17: Animation: nom: Build et longueur: 0.375
-06:45:17: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
-06:45:17: Exporting bones..
-06:45:17: Bones exported.
-06:45:17: Exporting animations, count=5
-06:45:17: Exporting animation: Build
-06:45:17: Animation exported.
-06:45:17: Exporting animation: CloseDoor
-06:45:17: Animation exported.
-06:45:17: Exporting animation: DoorOpen
-06:45:17: Animation exported.
-06:45:17: Exporting animation: OpenDoor
-06:45:17: Animation exported.
-06:45:17: Exporting animation: Process
-06:45:17: Animation exported.
-06:45:17: Unregistering ResourceManager for type Skeleton
-06:45:17: Unregistering ResourceManager for type Material
-06:45:17: Unregistering ResourceManager for type Mesh
+18:29:08: Creating resource group General
+18:29:08: Creating resource group Internal
+18:29:08: Creating resource group Autodetect
+18:29:08: Registering ResourceManager for type Mesh
+18:29:08: Registering ResourceManager for type Material
+18:29:08: Registering ResourceManager for type Skeleton
+18:29:08: XMLSkeletonSerializer: reading XML data from C:\Editing\Clonk\OpenClonk_Projects\Project_Classic\ClassicResources\blender\export\pump.skeleton.xml...
+18:29:08: XMLSkeletonSerializer: Reading Bones name...
+18:29:08: XMLSkeletonSerializer: Reading Hierarchy data...
+18:29:08: XMLSkeletonSerializer: Reading Bones data...
+18:29:08: XMLSkeletonSerializer: Reading Animations data...
+18:29:08: Animation: nom: Default et longueur: 0.791667
+18:29:08: Animation: nom: pump et longueur: 0.791667
+18:29:08: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+18:29:08: Exporting bones..
+18:29:08: Bones exported.
+18:29:08: Exporting animations, count=2
+18:29:08: Exporting animation: Default
+18:29:08: Animation exported.
+18:29:08: Exporting animation: pump
+18:29:08: Animation exported.
+18:29:08: Unregistering ResourceManager for type Skeleton
+18:29:08: Unregistering ResourceManager for type Material
+18:29:08: Unregistering ResourceManager for type Mesh
