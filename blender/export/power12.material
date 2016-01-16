@@ -14,15 +14,15 @@ material _missing_material_
     }
 }
 
-// classic_workshop genrated by blender2ogre 0.6.0
+// classic_stonehut genrated by blender2ogre 0.6.0
 
-material classic_workshop 
+material classic_stonehut 
 {
     receive_shadows on 
 
     technique
     {
-        pass classic_workshop
+        pass classic_stonehut
         {
             ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
             diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
@@ -48,7 +48,7 @@ material classic_workshop
 
             texture_unit 
             {
-                texture lorry.jpg
+                texture stonehut.jpg
                 tex_address_mode wrap
                 scale 1.0 1.0
                 colour_op modulate
