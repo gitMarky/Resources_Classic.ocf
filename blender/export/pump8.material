@@ -14,15 +14,15 @@ material _missing_material_
     }
 }
 
-// classic_pump genrated by blender2ogre 0.6.0
+// classic_powerplant genrated by blender2ogre 0.6.0
 
-material classic_pump 
+material classic_powerplant 
 {
     receive_shadows on 
 
     technique
     {
-        pass classic_pump
+        pass classic_powerplant
         {
             ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
             diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
@@ -48,7 +48,49 @@ material classic_pump
 
             texture_unit 
             {
-                texture windmill.jpg
+                texture lorry.jpg
+                tex_address_mode wrap
+                scale 1.0 1.0
+                colour_op modulate
+            }
+        }
+    }
+}
+// classic_powerplant_oven genrated by blender2ogre 0.6.0
+
+material classic_powerplant_oven 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass classic_powerplant_oven
+        {
+            ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+            diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit 
+            {
+                texture lorry.jpg
                 tex_address_mode wrap
                 scale 1.0 1.0
                 colour_op modulate
