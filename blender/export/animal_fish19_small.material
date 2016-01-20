@@ -1,0 +1,58 @@
+
+material _missing_material_
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            ambient 0.1 0.1 0.1 1.0
+            diffuse 0.8 0.0 0.0 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.3 0.3 0.3 1.0
+        }
+    }
+}
+
+// classic_fish genrated by blender2ogre 0.6.0
+
+material classic_fish 
+{
+    receive_shadows off 
+
+    technique
+    {
+        pass classic_fish
+        {
+            ambient 0.5951661467552185 0.5984910130500793 0.6250906586647034 1.0
+            diffuse 0.47613292449910816 0.4787928175746323 0.500072534383424 1.0
+            specular 0.21218976378440857 0.21218976378440857 0.21218976378440857 1.0 13.25
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+            texture_unit 
+            {
+                texture Shark.png
+                tex_address_mode wrap
+                scale 1.0 1.0
+                colour_op alpha_blend
+            }
+        }
+    }
+}
